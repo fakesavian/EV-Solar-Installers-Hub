@@ -84,7 +84,7 @@
     "Spanish (CA crews)"
   ],
   "contacts": {
-    "phone": "+1-800-555-0026",
+    "phone": "+1-877-000-0000 (placeholder)",
     "email": "support@sunlux.com (placeholder)",
     "website": "https://sunlux.com"
   },
@@ -98,7 +98,7 @@
     {
       "name": "Solar + battery + EV-ready",
       "location": "Riverside, CA",
-      "scope_kw": 9,
+      "scope_kw": 9.0,
       "chargers_installed": 1,
       "year": 2024,
       "equipment": [
@@ -120,7 +120,7 @@
     "California"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=SunLux",
+    "logo": "https://placehold.co/160x160?text=SunLux",
     "gallery": []
   },
   "data_quality_notes": "Confirm financing promos and interconnection timelines per utility.",

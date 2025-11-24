@@ -82,7 +82,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-800-555-0020",
+    "phone": "+1-888-781-7074 (placeholder)",
     "email": "care@ionsolar.com (placeholder)",
     "website": "https://ionsolar.com"
   },
@@ -96,7 +96,7 @@
     {
       "name": "Sun Belt residential solar",
       "location": "Las Vegas, NV",
-      "scope_kw": 8,
+      "scope_kw": 8.0,
       "chargers_installed": 0,
       "year": 2024,
       "equipment": [
@@ -115,7 +115,7 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=ION%20Solar",
+    "logo": "https://placehold.co/160x160?text=ION",
     "gallery": []
   },
   "data_quality_notes": "Battery availability varies by market; verify loan promotions.",

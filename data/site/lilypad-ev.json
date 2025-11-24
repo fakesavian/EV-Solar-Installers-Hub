@@ -1,0 +1,100 @@
+{
+  "id": "lilypad-ev",
+  "company_name": "LilyPad EV",
+  "category": "EV",
+  "description": "Midwest EV charging installer for commercial and municipal sites.",
+  "hq": {
+    "city": "Lenexa",
+    "state": "KS",
+    "country": "USA"
+  },
+  "founded_year": null,
+  "employees_estimate": null,
+  "service_area": [
+    "KS",
+    "MO",
+    "IA",
+    "NE"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Panel/service upgrade",
+    "Permitting and inspection",
+    "Commercial pedestals"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": []
+  },
+  "certifications": [
+    "Licensed electricians",
+    "EVITP-trained (select)"
+  ],
+  "utility_and_partner_affiliations": [],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Financing availability varies by market."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-2000",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Warranty terms vary by project."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility interconnection",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": null,
+    "email": null,
+    "website": "https://lillypad-ev.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm local",
+  "ratings": {
+    "average": null,
+    "review_count": null,
+    "source": null
+  },
+  "featured_projects": [],
+  "sustainability_practices": [
+    "Recycles packaging where possible",
+    "Remote monitoring to reduce truck rolls"
+  ],
+  "tags": [
+    "EV",
+    "Midwest"
+  ],
+  "photos": {
+    "logo": "https://logo.clearbit.com/lillypad-ev.com",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+  "slug": "lilypad-ev"
+}

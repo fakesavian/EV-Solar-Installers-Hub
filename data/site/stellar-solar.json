@@ -1,0 +1,99 @@
+{
+  "id": "stellar-solar",
+  "company_name": "Stellar Solar",
+  "category": "Hybrid",
+  "description": "San Diego solar installer with EV charger add-ons and storage.",
+  "hq": {
+    "city": "Oceanside",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": null,
+  "employees_estimate": null,
+  "service_area": [
+    "CA"
+  ],
+  "service_models": [
+    "residential",
+    "commercial"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Level 2 EV-ready circuit",
+    "Monitoring and O&M"
+  ],
+  "charger_brands": [],
+  "solar_equipment": {
+    "modules": [
+      "Q CELLS",
+      "REC"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select)"
+  ],
+  "utility_and_partner_affiliations": [],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Financing availability varies by market."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.60-3.80",
+    "battery_adder_per_kwh_usd": "900-1250",
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Warranty terms vary by project."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility interconnection",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": null,
+    "email": null,
+    "website": "https://stellarsolar.net"
+  },
+  "support_hours": "Mon-Fri 8am-6pm local",
+  "ratings": {
+    "average": null,
+    "review_count": null,
+    "source": null
+  },
+  "featured_projects": [],
+  "sustainability_practices": [
+    "Recycles packaging where possible",
+    "Remote monitoring to reduce truck rolls"
+  ],
+  "tags": [
+    "Solar",
+    "California"
+  ],
+  "photos": {
+    "logo": "https://logo.clearbit.com/stellarsolar.net",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+  "slug": "stellar-solar"
+}

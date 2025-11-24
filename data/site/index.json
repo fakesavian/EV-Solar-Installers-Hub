@@ -79,7 +79,7 @@
       "Spanish (varies by market)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0001",
+      "phone": "+1-888-000-0000 (placeholder)",
       "email": "hello@qmerit.com (placeholder)",
       "website": "https://qmerit.com"
     },
@@ -114,7 +114,7 @@
       "Fleet"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Qmerit%20Certified%20Solutions",
+      "logo": "https://placehold.co/160x160?text=Qmerit",
       "gallery": []
     },
     "data_quality_notes": "Replace placeholders and contractor-specific terms with verified local data.",
@@ -204,7 +204,7 @@
       "Spanish (select markets)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0002",
+      "phone": "+1-844-909-4922 (placeholder)",
       "email": "sales@smartchargeamerica.com (placeholder)",
       "website": "https://smartchargeamerica.com"
     },
@@ -249,7 +249,7 @@
       "Rebates"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Smart%20Charge%20America",
+      "logo": "https://placehold.co/160x160?text=SCA",
       "gallery": []
     },
     "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts.",
@@ -326,7 +326,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0003",
+      "phone": "+1-844-866-1367 (placeholder)",
       "email": "contact@mrelectric.com (placeholder)",
       "website": "https://mrelectric.com"
     },
@@ -359,7 +359,7 @@
       "Franchise"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Mr.%20Electric%20(Neighborly)",
+      "logo": "https://placehold.co/160x160?text=MrElectric",
       "gallery": []
     },
     "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level.",
@@ -449,7 +449,7 @@
       "Spanish (Los Angeles crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0004",
+      "phone": "+1-844-386-3834 (placeholder)",
       "email": "info@evsafecharge.com (placeholder)",
       "website": "https://evsafecharge.com"
     },
@@ -483,7 +483,7 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=EV%20Safe%20Charge",
+      "logo": "https://placehold.co/160x160?text=EVSafe",
       "gallery": []
     },
     "data_quality_notes": "Confirm current state coverage and event availability before publishing.",
@@ -569,7 +569,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0005",
+      "phone": "+1-888-988-4066 (placeholder)",
       "email": "support@enelxway.com (placeholder)",
       "website": "https://enelxway.com"
     },
@@ -602,7 +602,7 @@
       "Managed Charging"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Enel%20X%20Way%20Services%20(JuiceBox%20Installers)",
+      "logo": "https://placehold.co/160x160?text=EnelX",
       "gallery": []
     },
     "data_quality_notes": "Verify current state coverage and JuiceBox model availability.",
@@ -684,7 +684,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0006",
+      "phone": "+1-888-387-1326 (placeholder)",
       "email": "sales@evercharge.com (placeholder)",
       "website": "https://evercharge.com"
     },
@@ -718,7 +718,7 @@
       "Commercial"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=EverCharge",
+      "logo": "https://placehold.co/160x160?text=EverCharge",
       "gallery": []
     },
     "data_quality_notes": "Confirm service contract terms and rebate programs per state.",
@@ -824,7 +824,7 @@
       "Spanish"
     ],
     "contacts": {
-      "phone": "+1-800-555-0007",
+      "phone": "+1-855-478-6786 (placeholder)",
       "email": "support@sunrun.com (placeholder)",
       "website": "https://sunrun.com"
     },
@@ -859,7 +859,7 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Sunrun",
+      "logo": "https://placehold.co/160x160?text=Sunrun",
       "gallery": []
     },
     "data_quality_notes": "Confirm EV charger availability per state; pricing varies by utility zone.",
@@ -945,7 +945,7 @@
       "Spanish (dealer dependent)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0008",
+      "phone": "+1-800-786-7693 (placeholder)",
       "email": "info@sunpower.com (placeholder)",
       "website": "https://us.sunpower.com"
     },
@@ -979,7 +979,7 @@
       "Long Warranty"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=SunPower",
+      "logo": "https://placehold.co/160x160?text=SunPower",
       "gallery": []
     },
     "data_quality_notes": "Confirm dealer coverage and warranty details per region.",
@@ -1077,7 +1077,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0009",
+      "phone": "+1-888-765-2489 (placeholder)",
       "email": "energy@tesla.com (placeholder)",
       "website": "https://www.tesla.com/energy"
     },
@@ -1091,7 +1091,7 @@
       {
         "name": "Solar + Powerwall + EV circuit",
         "location": "Sacramento, CA",
-        "scope_kw": 10,
+        "scope_kw": 10.0,
         "chargers_installed": 1,
         "year": 2024,
         "equipment": [
@@ -1112,7 +1112,7 @@
       "VPP"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Tesla%20Energy",
+      "logo": "https://placehold.co/160x160?text=Tesla",
       "gallery": []
     },
     "data_quality_notes": "EV circuit availability varies by market; confirm local queue times.",
@@ -1200,7 +1200,7 @@
       "Spanish (many dealers)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0010",
+      "phone": "+1-866-786-6682 (placeholder)",
       "email": "support@sunnova.com (placeholder)",
       "website": "https://sunnova.com"
     },
@@ -1234,7 +1234,7 @@
       "PPA/Lease"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Sunnova",
+      "logo": "https://placehold.co/160x160?text=Sunnova",
       "gallery": []
     },
     "data_quality_notes": "Confirm dealer availability and financing offers by ZIP.",
@@ -1336,7 +1336,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0011",
+      "phone": "+1-855-339-1831 (placeholder)",
       "email": "hello@palmetto.com (placeholder)",
       "website": "https://palmetto.com"
     },
@@ -1350,7 +1350,7 @@
       {
         "name": "Solar + monitoring bundle",
         "location": "Atlanta, GA",
-        "scope_kw": 8,
+        "scope_kw": 8.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -1371,7 +1371,7 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Palmetto",
+      "logo": "https://placehold.co/160x160?text=Palmetto",
       "gallery": []
     },
     "data_quality_notes": "Confirm EV circuit availability and financing per state.",
@@ -1465,7 +1465,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0012",
+      "phone": "+1-800-685-1850 (placeholder)",
       "email": "support@freedomforever.com (placeholder)",
       "website": "https://freedomforever.com"
     },
@@ -1498,7 +1498,7 @@
       "Performance Guarantee"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Freedom%20Forever",
+      "logo": "https://placehold.co/160x160?text=Freedom",
       "gallery": []
     },
     "data_quality_notes": "Verify financing options by state and production guarantee terms.",
@@ -1597,7 +1597,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0013",
+      "phone": "+1-833-409-1007 (placeholder)",
       "email": "support@adt-solar.com (placeholder)",
       "website": "https://www.adtsolar.com"
     },
@@ -1611,7 +1611,7 @@
       {
         "name": "Solar + security bundle",
         "location": "Houston, TX",
-        "scope_kw": 9,
+        "scope_kw": 9.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -1631,7 +1631,7 @@
       "Smart Home"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=ADT%20Solar%20(formerly%20Sunpro)",
+      "logo": "https://placehold.co/160x160?text=ADT",
       "gallery": []
     },
     "data_quality_notes": "Confirm EV wiring availability and state coverage.",
@@ -1733,7 +1733,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0014",
+      "phone": "+1-800-377-4480 (placeholder)",
       "email": "contact@blueravensolar.com (placeholder)",
       "website": "https://blueravensolar.com"
     },
@@ -1766,7 +1766,7 @@
       "Ownership"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Blue%20Raven%20Solar",
+      "logo": "https://placehold.co/160x160?text=BlueRaven",
       "gallery": []
     },
     "data_quality_notes": "Battery and EV wiring availability vary by state; verify current promotions.",
@@ -1859,7 +1859,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0015",
+      "phone": "+1-760-745-2001 (placeholder)",
       "email": "info@bakerhomeenergy.com (placeholder)",
       "website": "https://bakerhomeenergy.com"
     },
@@ -1895,7 +1895,7 @@
       "HVAC"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Baker%20Electric%20Home%20Energy",
+      "logo": "https://placehold.co/160x160?text=Baker",
       "gallery": []
     },
     "data_quality_notes": "Service area concentrated in Southern CA; confirm rebate availability.",
@@ -1981,7 +1981,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0016",
+      "phone": "+1-888-210-3366 (placeholder)",
       "email": "info@sempersolaris.com (placeholder)",
       "website": "https://www.sempersolaris.com"
     },
@@ -2016,7 +2016,7 @@
       "Veteran-owned"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Semper%20Solaris",
+      "logo": "https://placehold.co/160x160?text=Semper",
       "gallery": []
     },
     "data_quality_notes": "Confirm EV wiring availability and SGIP funding status.",
@@ -2109,7 +2109,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0017",
+      "phone": "+1-888-338-7786 (placeholder)",
       "email": "care@momentumsolar.com (placeholder)",
       "website": "https://momentumsolar.com"
     },
@@ -2123,7 +2123,7 @@
       {
         "name": "Northeast rooftop solar",
         "location": "Hartford, CT",
-        "scope_kw": 7,
+        "scope_kw": 7.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -2142,7 +2142,7 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Momentum%20Solar",
+      "logo": "https://placehold.co/160x160?text=Momentum",
       "gallery": []
     },
     "data_quality_notes": "Confirm availability of PPAs and batteries per state.",
@@ -2235,7 +2235,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0018",
+      "phone": "+1-888-567-1550 (placeholder)",
       "email": "info@trinity-solar.com (placeholder)",
       "website": "https://www.trinity-solar.com"
     },
@@ -2268,7 +2268,7 @@
       "PPA"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Trinity%20Solar",
+      "logo": "https://placehold.co/160x160?text=Trinity",
       "gallery": []
     },
     "data_quality_notes": "Confirm active states and incentive programs per utility.",
@@ -2356,7 +2356,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0019",
+      "phone": "+1-888-354-0174 (placeholder)",
       "email": "hello@poweredbyelevation.com (placeholder)",
       "website": "https://poweredbyelevation.com"
     },
@@ -2391,7 +2391,7 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Elevation",
+      "logo": "https://placehold.co/160x160?text=Elevation",
       "gallery": []
     },
     "data_quality_notes": "Confirm EV circuit availability; efficiency rebates vary by utility.",
@@ -2481,7 +2481,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0020",
+      "phone": "+1-888-781-7074 (placeholder)",
       "email": "care@ionsolar.com (placeholder)",
       "website": "https://ionsolar.com"
     },
@@ -2495,7 +2495,7 @@
       {
         "name": "Sun Belt residential solar",
         "location": "Las Vegas, NV",
-        "scope_kw": 8,
+        "scope_kw": 8.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -2514,7 +2514,7 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=ION%20Solar",
+      "logo": "https://placehold.co/160x160?text=ION",
       "gallery": []
     },
     "data_quality_notes": "Battery availability varies by market; verify loan promotions.",
@@ -2607,7 +2607,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0021",
+      "phone": "+1-207-000-0000 (placeholder)",
       "email": "hello@revisionenergy.com (placeholder)",
       "website": "https://www.revisionenergy.com"
     },
@@ -2621,7 +2621,7 @@
       {
         "name": "School solar + EV chargers",
         "location": "Portland, ME",
-        "scope_kw": 200,
+        "scope_kw": 200.0,
         "chargers_installed": 8,
         "year": 2024,
         "equipment": [
@@ -2644,7 +2644,7 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=ReVision%20Energy",
+      "logo": "https://placehold.co/160x160?text=ReVision",
       "gallery": []
     },
     "data_quality_notes": "Confirm current rebate availability per utility.",
@@ -2730,7 +2730,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0022",
+      "phone": "+1-424-000-0000 (placeholder)",
       "email": "sales@inchargeus.com (placeholder)",
       "website": "https://inchargeus.com"
     },
@@ -2766,7 +2766,7 @@
       "Commercial"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=InCharge%20Energy",
+      "logo": "https://placehold.co/160x160?text=InCharge",
       "gallery": []
     },
     "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project.",
@@ -2849,7 +2849,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0023",
+      "phone": "+1-844-000-0000 (placeholder)",
       "email": "info@quickchargepower.com (placeholder)",
       "website": "https://www.quickchargepower.com"
     },
@@ -2883,7 +2883,7 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Quick%20Charge%20Power",
+      "logo": "https://placehold.co/160x160?text=QCP",
       "gallery": []
     },
     "data_quality_notes": "Verify rebate eligibility per utility territory.",
@@ -2974,7 +2974,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0024",
+      "phone": "+1-910-000-0000 (placeholder)",
       "email": "info@capefearsolarsystems.com (placeholder)",
       "website": "https://www.capefearsolarsystems.com"
     },
@@ -2988,7 +2988,7 @@
       {
         "name": "Solar + battery coastal install",
         "location": "Wilmington, NC",
-        "scope_kw": 9,
+        "scope_kw": 9.0,
         "chargers_installed": 1,
         "year": 2024,
         "equipment": [
@@ -3010,7 +3010,7 @@
       "Carolinas"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Cape%20Fear%20Solar%20Systems",
+      "logo": "https://placehold.co/160x160?text=CapeFear",
       "gallery": []
     },
     "data_quality_notes": "Verify interconnection and net billing details by utility.",
@@ -3099,7 +3099,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-555-0025",
+      "phone": "+1-802-000-0000 (placeholder)",
       "email": "hello@greenmtnsolar.com (placeholder)",
       "website": "https://greenmtnsolar.com"
     },
@@ -3135,7 +3135,7 @@
       "Vermont"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Green%20Mountain%20Solar",
+      "logo": "https://placehold.co/160x160?text=GMS",
       "gallery": []
     },
     "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps.",
@@ -3227,7 +3227,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0026",
+      "phone": "+1-877-000-0000 (placeholder)",
       "email": "support@sunlux.com (placeholder)",
       "website": "https://sunlux.com"
     },
@@ -3241,7 +3241,7 @@
       {
         "name": "Solar + battery + EV-ready",
         "location": "Riverside, CA",
-        "scope_kw": 9,
+        "scope_kw": 9.0,
         "chargers_installed": 1,
         "year": 2024,
         "equipment": [
@@ -3263,7 +3263,7 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=SunLux",
+      "logo": "https://placehold.co/160x160?text=SunLux",
       "gallery": []
     },
     "data_quality_notes": "Confirm financing promos and interconnection timelines per utility.",
@@ -3351,7 +3351,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0027",
+      "phone": "+1-855-000-0000 (placeholder)",
       "email": "support@solgenpower.com (placeholder)",
       "website": "https://solgenpower.com"
     },
@@ -3365,7 +3365,7 @@
       {
         "name": "Northwest residential solar",
         "location": "Spokane, WA",
-        "scope_kw": 8,
+        "scope_kw": 8.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -3384,7 +3384,7 @@
       "Battery"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Solgen%20Power",
+      "logo": "https://placehold.co/160x160?text=Solgen",
       "gallery": []
     },
     "data_quality_notes": "Verify current state coverage and battery availability.",
@@ -3469,7 +3469,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0028",
+      "phone": "+1-916-000-0000 (placeholder)",
       "email": "support@infinityenergy.com (placeholder)",
       "website": "https://infinityenergy.com"
     },
@@ -3504,7 +3504,7 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Infinity%20Energy",
+      "logo": "https://placehold.co/160x160?text=Infinity",
       "gallery": []
     },
     "data_quality_notes": "Confirm current utility interconnection timelines and financing offers.",
@@ -3591,7 +3591,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0029",
+      "phone": "+1-888-000-0001 (placeholder)",
       "email": "support@posigen.com (placeholder)",
       "website": "https://www.posigen.com"
     },
@@ -3605,7 +3605,7 @@
       {
         "name": "Lease-based rooftop solar",
         "location": "Baton Rouge, LA",
-        "scope_kw": 7,
+        "scope_kw": 7.0,
         "chargers_installed": 0,
         "year": 2024,
         "equipment": [
@@ -3625,7 +3625,7 @@
       "Efficiency"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=PosiGen",
+      "logo": "https://placehold.co/160x160?text=PosiGen",
       "gallery": []
     },
     "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary.",
@@ -3720,7 +3720,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-555-0030",
+      "phone": "+1-801-000-0000 (placeholder)",
       "email": "info@orangeelectric.com (placeholder)",
       "website": "https://www.orangeelectric.com"
     },
@@ -3734,7 +3734,7 @@
       {
         "name": "Solar + EV circuit upgrade",
         "location": "Salt Lake City, UT",
-        "scope_kw": 8,
+        "scope_kw": 8.0,
         "chargers_installed": 1,
         "year": 2024,
         "equipment": [
@@ -3756,10 +3756,5050 @@
       "Utah"
     ],
     "photos": {
-      "logo": "https://placehold.co/200x200?text=Orange%20Electric",
+      "logo": "https://placehold.co/160x160?text=Orange",
       "gallery": []
     },
     "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power.",
     "slug": "orange-electric"
+  },
+  {
+    "id": "nrg-clean-power",
+    "company_name": "NRG Clean Power",
+    "category": "Hybrid",
+    "description": "Solar and storage installer offering EV-ready upgrades.",
+    "hq": {
+      "city": "Canoga Park",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA",
+      "TX"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": "888-650-4750",
+      "email": null,
+      "website": "https://nrgcleanpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/nrgcleanpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "nrg-clean-power"
+  },
+  {
+    "id": "freedom-solar-power",
+    "company_name": "Freedom Solar Power",
+    "category": "Hybrid",
+    "description": "Regional solar + battery provider with EV charger add-ons.",
+    "hq": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "TX",
+      "CO",
+      "FL",
+      "NC",
+      "VA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": "800-504-2337",
+      "email": null,
+      "website": "https://freedomsolarpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "Texas"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/freedomsolarpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "freedom-solar-power"
+  },
+  {
+    "id": "titan-solar-power",
+    "company_name": "Titan Solar Power",
+    "category": "Solar",
+    "description": "Nationwide solar EPC serving multiple states.",
+    "hq": {
+      "city": "Mesa",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "AZ",
+      "NM",
+      "NV",
+      "TX",
+      "FL",
+      "SC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://titansolarpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "EPC",
+      "Arizona"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/titansolarpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "titan-solar-power"
+  },
+  {
+    "id": "powur",
+    "company_name": "Powur PBC",
+    "category": "Solar",
+    "description": "Solar sales platform with vetted installers and storage options.",
+    "hq": {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "Nationwide USA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://powur.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Marketplace"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/powur.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "powur"
+  },
+  {
+    "id": "green-home-systems",
+    "company_name": "Green Home Systems",
+    "category": "Hybrid",
+    "description": "Solar and battery installer with nationwide financing partners.",
+    "hq": {
+      "city": "Tarzana",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA",
+      "TX",
+      "FL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": "888-721-7374",
+      "email": null,
+      "website": "https://greenhomesystems.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/greenhomesystems.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "green-home-systems"
+  },
+  {
+    "id": "solar-optimum",
+    "company_name": "Solar Optimum",
+    "category": "Hybrid",
+    "description": "Solar EPC offering Enphase/Tesla storage and roofing coordination.",
+    "hq": {
+      "city": "Glendale",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA",
+      "NV",
+      "AZ"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://solar-optimum.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/solar-optimum.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solar-optimum"
+  },
+  {
+    "id": "purelight-power",
+    "company_name": "Purelight Power",
+    "category": "Hybrid",
+    "description": "Pacific Northwest solar installer with in-house design and monitoring.",
+    "hq": {
+      "city": "Medford",
+      "state": "OR",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "OR",
+      "MT",
+      "IA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": "541-816-4047",
+      "email": null,
+      "website": "https://purelightpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Oregon"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/purelightpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "purelight-power"
+  },
+  {
+    "id": "sunergy-solar",
+    "company_name": "Sunergy Solar",
+    "category": "Hybrid",
+    "description": "Florida-based solar and storage installer with roofing support.",
+    "hq": {
+      "city": "Largo",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL",
+      "NC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://sunergysolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Florida"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/sunergysolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sunergy-solar"
+  },
+  {
+    "id": "solcius",
+    "company_name": "Solcius",
+    "category": "Solar",
+    "description": "Residential solar installer operating across western and southern states.",
+    "hq": {
+      "city": "Provo",
+      "state": "UT",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "UT",
+      "CA",
+      "NV",
+      "TX",
+      "SC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://solcius.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Residential"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/solcius.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solcius"
+  },
+  {
+    "id": "lumio",
+    "company_name": "Lumio",
+    "category": "Hybrid",
+    "description": "Large residential solar provider with battery and roofing coordination.",
+    "hq": {
+      "city": "Lehi",
+      "state": "UT",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "UT",
+      "AZ",
+      "CO",
+      "TX",
+      "FL",
+      "NV",
+      "ID"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://lumio.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "Multi-state"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/lumio.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "lumio"
+  },
+  {
+    "id": "sunnation",
+    "company_name": "Sunnation",
+    "category": "Hybrid",
+    "description": "Long Island solar EPC offering battery storage and EV-ready wiring.",
+    "hq": {
+      "city": "Ronkonkoma",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NY"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.sunnation.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "New York"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.sunnation.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sunnation"
+  },
+  {
+    "id": "infinity-solar",
+    "company_name": "Infinity Solar",
+    "category": "Hybrid",
+    "description": "Southern California installer providing solar, batteries, and EV circuits.",
+    "hq": {
+      "city": "Orange",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA",
+      "NV"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://goinfinitysolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Battery",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/goinfinitysolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "infinity-solar"
+  },
+  {
+    "id": "ace-solar",
+    "company_name": "ACE Solar",
+    "category": "Hybrid",
+    "description": "New England solar EPC handling commercial and residential projects.",
+    "hq": {
+      "city": "North Andover",
+      "state": "MA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "MA",
+      "NH",
+      "ME"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://acesolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Massachusetts"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/acesolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "ace-solar"
+  },
+  {
+    "id": "straightup-solar",
+    "company_name": "StraightUp Solar",
+    "category": "Hybrid",
+    "description": "Midwest solar EPC with NABCEP staff and battery offerings.",
+    "hq": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "MO",
+      "IL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://straightupsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Midwest"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/straightupsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "straightup-solar"
+  },
+  {
+    "id": "solar-sme",
+    "company_name": "Solar SME",
+    "category": "Hybrid",
+    "description": "Residential/commercial solar and storage contractor serving Texas and beyond.",
+    "hq": {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "TX",
+      "GA",
+      "CO"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://solarsme.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Texas"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/solarsme.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solar-sme"
+  },
+  {
+    "id": "kosmos-solar",
+    "company_name": "Kosmos Solar",
+    "category": "Hybrid",
+    "description": "North Texas solar installer offering rooftop PV and batteries.",
+    "hq": {
+      "city": "Arlington",
+      "state": "TX",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "TX"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://kosmossolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Texas"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/kosmossolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "kosmos-solar"
+  },
+  {
+    "id": "stellar-solar",
+    "company_name": "Stellar Solar",
+    "category": "Hybrid",
+    "description": "San Diego solar installer with EV charger add-ons and storage.",
+    "hq": {
+      "city": "Oceanside",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://stellarsolar.net"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/stellarsolar.net",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "stellar-solar"
+  },
+  {
+    "id": "nevada-solar-group",
+    "company_name": "Nevada Solar Group",
+    "category": "Hybrid",
+    "description": "Regional installer delivering solar and Tesla Powerwall packages.",
+    "hq": {
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NV",
+      "CA",
+      "TX"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://nevadasolargroup.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Nevada"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/nevadasolargroup.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "nevada-solar-group"
+  },
+  {
+    "id": "la-solar-group",
+    "company_name": "LA Solar Group",
+    "category": "Hybrid",
+    "description": "Full-service solar and roofing contractor with storage expertise.",
+    "hq": {
+      "city": "Van Nuys",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA",
+      "TX",
+      "FL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://lasolargroup.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/lasolargroup.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "la-solar-group"
+  },
+  {
+    "id": "sun-valley-solar",
+    "company_name": "Sun Valley Solar Solutions",
+    "category": "Hybrid",
+    "description": "Arizona solar and battery installer with commercial capabilities.",
+    "hq": {
+      "city": "Chandler",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "AZ"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.svssolutions.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Arizona"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.svssolutions.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sun-valley-solar"
+  },
+  {
+    "id": "a1a-solar",
+    "company_name": "A1A Solar Contracting",
+    "category": "Hybrid",
+    "description": "Florida solar EPC focusing on rooftop PV, storage, and EV circuits.",
+    "hq": {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL",
+      "GA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://a1asolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Florida"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/a1asolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "a1a-solar"
+  },
+  {
+    "id": "solar-works-energy",
+    "company_name": "Solar Works Energy",
+    "category": "Hybrid",
+    "description": "Southwest solar installer with battery and monitoring packages.",
+    "hq": {
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NM",
+      "TX",
+      "CO"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://solarworksenergy.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "New Mexico"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/solarworksenergy.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solar-works-energy"
+  },
+  {
+    "id": "sunlight-solar",
+    "company_name": "Sunlight Solar Energy",
+    "category": "Hybrid",
+    "description": "Established solar EPC serving OR, CO, CT, and MA with storage options.",
+    "hq": {
+      "city": "Bend",
+      "state": "OR",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "OR",
+      "CO",
+      "CT",
+      "MA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://sunlightsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Oregon"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/sunlightsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sunlight-solar"
+  },
+  {
+    "id": "namaste-solar",
+    "company_name": "Namaste Solar",
+    "category": "Hybrid",
+    "description": "Employee-owned solar installer offering residential and commercial projects.",
+    "hq": {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CO"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://namastesolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Colorado",
+      "Employee-owned"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/namastesolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "namaste-solar"
+  },
+  {
+    "id": "radiance-solar",
+    "company_name": "Radiance Solar",
+    "category": "Hybrid",
+    "description": "Commercial and utility-scale solar EPC in the Southeast.",
+    "hq": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "GA",
+      "TN",
+      "AL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://radiancesolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Commercial"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/radiancesolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "radiance-solar"
+  },
+  {
+    "id": "suncommon",
+    "company_name": "SunCommon",
+    "category": "Hybrid",
+    "description": "B Corp solar installer for homes and farms with battery offerings.",
+    "hq": {
+      "city": "South Burlington",
+      "state": "VT",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "VT",
+      "NY"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://suncommon.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Vermont",
+      "B Corp"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/suncommon.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "suncommon"
+  },
+  {
+    "id": "summit-solar",
+    "company_name": "Summit Solar",
+    "category": "Hybrid",
+    "description": "Southeast residential solar provider with storage financing.",
+    "hq": {
+      "city": "Greenville",
+      "state": "SC",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "SC",
+      "NC",
+      "GA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://summitsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Southeast"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/summitsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "summit-solar"
+  },
+  {
+    "id": "icon-solar",
+    "company_name": "Icon Solar",
+    "category": "Hybrid",
+    "description": "Ohio Valley solar installer serving tri-state residential customers.",
+    "hq": {
+      "city": "Milford",
+      "state": "OH",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "OH",
+      "KY",
+      "IN"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://iconsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Ohio"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/iconsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "icon-solar"
+  },
+  {
+    "id": "kokosing-solar",
+    "company_name": "Kokosing Solar",
+    "category": "Hybrid",
+    "description": "Former Third Sun Solar delivering residential and commercial PV.",
+    "hq": {
+      "city": "Athens",
+      "state": "OH",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "OH",
+      "WV",
+      "KY"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.kokosingsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Ohio"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.kokosingsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "kokosing-solar"
+  },
+  {
+    "id": "first-light-energy",
+    "company_name": "1st Light Energy",
+    "category": "Hybrid",
+    "description": "California residential solar installer with roofing coordination.",
+    "hq": {
+      "city": "Manteca",
+      "state": "CA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://1stlightenergy.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "California"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/1stlightenergy.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "first-light-energy"
+  },
+  {
+    "id": "greenbrilliance",
+    "company_name": "GreenBrilliance",
+    "category": "Hybrid",
+    "description": "Mid-Atlantic solar EPC offering Powerwall and Enphase storage.",
+    "hq": {
+      "city": "Sterling",
+      "state": "VA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "VA",
+      "MD",
+      "DC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://greenbrilliance.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Mid-Atlantic"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/greenbrilliance.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "greenbrilliance"
+  },
+  {
+    "id": "alchemy-solar",
+    "company_name": "Alchemy Solar",
+    "category": "Hybrid",
+    "description": "Consultative solar installer providing storage and EV-ready wiring.",
+    "hq": {
+      "city": "Providence",
+      "state": "RI",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "RI",
+      "MA",
+      "CA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://alchemy.solar"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Storage"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/alchemy.solar",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "alchemy-solar"
+  },
+  {
+    "id": "independent-power",
+    "company_name": "Independent Power",
+    "category": "Hybrid",
+    "description": "Mountain West solar and battery installer with off-grid expertise.",
+    "hq": {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "CO",
+      "MT"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://independentpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Off-grid"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/independentpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "independent-power"
+  },
+  {
+    "id": "wattlogic",
+    "company_name": "WattLogic",
+    "category": "EV",
+    "description": "Electrification firm specializing in EV charging for homes and fleets.",
+    "hq": {
+      "city": "Mesa",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "Nationwide USA"
+    ],
+    "service_models": [
+      "residential",
+      "commercial",
+      "fleet"
+    ],
+    "services_offered": [
+      "Level 2 EV charger installation",
+      "Panel/service upgrade",
+      "Permitting and inspection",
+      "Commercial pedestals"
+    ],
+    "charger_brands": [
+      "Tesla Wall Connector",
+      "ChargePoint",
+      "Wallbox",
+      "JuiceBox"
+    ],
+    "solar_equipment": {
+      "modules": [],
+      "inverters": [],
+      "storage": []
+    },
+    "certifications": [
+      "Licensed electricians",
+      "EVITP-trained (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": "900-2000",
+      "dcfc_range_usd": "Custom",
+      "solar_ppw_usd": null,
+      "battery_adder_per_kwh_usd": null,
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 1,
+      "equipment_years": 1,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://wattlogic.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "EV",
+      "Commercial"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/wattlogic.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "wattlogic"
+  },
+  {
+    "id": "lilypad-ev",
+    "company_name": "LilyPad EV",
+    "category": "EV",
+    "description": "Midwest EV charging installer for commercial and municipal sites.",
+    "hq": {
+      "city": "Lenexa",
+      "state": "KS",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "KS",
+      "MO",
+      "IA",
+      "NE"
+    ],
+    "service_models": [
+      "residential",
+      "commercial",
+      "fleet"
+    ],
+    "services_offered": [
+      "Level 2 EV charger installation",
+      "Panel/service upgrade",
+      "Permitting and inspection",
+      "Commercial pedestals"
+    ],
+    "charger_brands": [
+      "Tesla Wall Connector",
+      "ChargePoint",
+      "Wallbox",
+      "JuiceBox"
+    ],
+    "solar_equipment": {
+      "modules": [],
+      "inverters": [],
+      "storage": []
+    },
+    "certifications": [
+      "Licensed electricians",
+      "EVITP-trained (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": "900-2000",
+      "dcfc_range_usd": "Custom",
+      "solar_ppw_usd": null,
+      "battery_adder_per_kwh_usd": null,
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 1,
+      "equipment_years": 1,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://lillypad-ev.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "EV",
+      "Midwest"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/lillypad-ev.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "lilypad-ev"
+  },
+  {
+    "id": "sunbridge-solar",
+    "company_name": "Sunbridge Solar",
+    "category": "Hybrid",
+    "description": "Pacific Northwest solar installer with battery and EV-ready wiring.",
+    "hq": {
+      "city": "Washougal",
+      "state": "WA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "WA",
+      "OR"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://sunbridgesolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Pacific Northwest"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/sunbridgesolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sunbridge-solar"
+  },
+  {
+    "id": "positive-energy-solar",
+    "company_name": "Positive Energy Solar",
+    "category": "Hybrid",
+    "description": "Employee-owned New Mexico installer with NABCEP staff and storage.",
+    "hq": {
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NM"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://positiveenergysolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "New Mexico"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/positiveenergysolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "positive-energy-solar"
+  },
+  {
+    "id": "everlight-solar",
+    "company_name": "Everlight Solar",
+    "category": "Hybrid",
+    "description": "Midwest residential solar provider with in-house crews.",
+    "hq": {
+      "city": "Middleton",
+      "state": "WI",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "WI",
+      "MN",
+      "IL",
+      "CO",
+      "ID"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": "833-786-4387",
+      "email": null,
+      "website": "https://everlightsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Midwest"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/everlightsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "everlight-solar"
+  },
+  {
+    "id": "empower-solar",
+    "company_name": "EmPower Solar",
+    "category": "Hybrid",
+    "description": "Long Island solar installer serving residential and commercial clients.",
+    "hq": {
+      "city": "Island Park",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NY",
+      "NJ"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.empowersolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "New York"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.empowersolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "empower-solar"
+  },
+  {
+    "id": "green-street-solar",
+    "company_name": "Green Street Solar Power",
+    "category": "Hybrid",
+    "description": "Northeast residential solar provider with Enphase/Tesla storage.",
+    "hq": {
+      "city": "Bronx",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NY",
+      "NJ",
+      "CT"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://greenstreetsolarpower.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Northeast"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/greenstreetsolarpower.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "green-street-solar"
+  },
+  {
+    "id": "atlantic-key-energy",
+    "company_name": "Atlantic Key Energy",
+    "category": "Hybrid",
+    "description": "Southeast solar installer focusing on residential rooftop systems.",
+    "hq": {
+      "city": "Orlando",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL",
+      "TN",
+      "TX",
+      "SC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://atlantickeyenergy.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Southeast"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/atlantickeyenergy.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "atlantic-key-energy"
+  },
+  {
+    "id": "pes-solar",
+    "company_name": "PES Solar",
+    "category": "Hybrid",
+    "description": "Florida-based solar contractor offering storage and monitoring.",
+    "hq": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL",
+      "GA",
+      "NC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://pessolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Florida"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/pessolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "pes-solar"
+  },
+  {
+    "id": "renu-energy-solutions",
+    "company_name": "Renu Energy Solutions",
+    "category": "Hybrid",
+    "description": "Carolinas solar installer providing batteries and EV-ready wiring.",
+    "hq": {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "NC",
+      "SC"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://renuenergysolutions.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Carolinas"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/renuenergysolutions.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "renu-energy-solutions"
+  },
+  {
+    "id": "goldin-solar",
+    "company_name": "Goldin Solar",
+    "category": "Hybrid",
+    "description": "Florida solar installer with Tesla Powerwall certification.",
+    "hq": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://goldinsolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Florida"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/goldinsolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "goldin-solar"
+  },
+  {
+    "id": "windmar-solar",
+    "company_name": "WindMar Solar",
+    "category": "Hybrid",
+    "description": "Puerto Rico and Florida solar installer with storage and microgrid experience.",
+    "hq": {
+      "city": "San Juan",
+      "state": "PR",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "PR",
+      "FL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://windmar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Puerto Rico"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/windmar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "windmar-solar"
+  },
+  {
+    "id": "solar-states",
+    "company_name": "Solar States",
+    "category": "Hybrid",
+    "description": "Philadelphia-based B Corp focused on solar workforce development.",
+    "hq": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "PA",
+      "NJ",
+      "DE"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.solar-states.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Pennsylvania",
+      "B Corp"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.solar-states.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solar-states"
+  },
+  {
+    "id": "solar-energy-world",
+    "company_name": "Solar Energy World",
+    "category": "Hybrid",
+    "description": "Mid-Atlantic residential solar installer with in-house crews.",
+    "hq": {
+      "city": "Elkridge",
+      "state": "MD",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "MD",
+      "VA",
+      "PA",
+      "NJ",
+      "DE"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.solarenergyworld.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Mid-Atlantic"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/www.solarenergyworld.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "solar-energy-world"
+  },
+  {
+    "id": "green-ridge-solar",
+    "company_name": "Green Ridge Solar",
+    "category": "Hybrid",
+    "description": "Oregon solar installer offering batteries and EV-ready wiring.",
+    "hq": {
+      "city": "Beaverton",
+      "state": "OR",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "OR"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://greenridgesolar.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Oregon"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/greenridgesolar.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "green-ridge-solar"
+  },
+  {
+    "id": "sunfarm-energy",
+    "company_name": "SunFarm Energy",
+    "category": "Hybrid",
+    "description": "Gulf Coast solar EPC providing Enphase/Tesla storage.",
+    "hq": {
+      "city": "Pensacola",
+      "state": "FL",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "FL",
+      "AL"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://sunfarmenergy.net"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Florida",
+      "Gulf Coast"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/sunfarmenergy.net",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "sunfarm-energy"
+  },
+  {
+    "id": "american-solar-roofing",
+    "company_name": "American Solar & Roofing",
+    "category": "Hybrid",
+    "description": "Arizona installer combining solar with roofing expertise.",
+    "hq": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "founded_year": null,
+    "employees_estimate": null,
+    "service_area": [
+      "AZ"
+    ],
+    "service_models": [
+      "residential",
+      "commercial"
+    ],
+    "services_offered": [
+      "Rooftop solar",
+      "Battery storage",
+      "Level 2 EV-ready circuit",
+      "Monitoring and O&M"
+    ],
+    "charger_brands": [],
+    "solar_equipment": {
+      "modules": [
+        "Q CELLS",
+        "REC"
+      ],
+      "inverters": [
+        "Enphase",
+        "SolarEdge"
+      ],
+      "storage": [
+        "Tesla Powerwall",
+        "Enphase IQ Battery"
+      ]
+    },
+    "certifications": [
+      "NABCEP-certified professionals (select)"
+    ],
+    "utility_and_partner_affiliations": [],
+    "financing": {
+      "options": [
+        "cash",
+        "loan"
+      ],
+      "notes": "Financing availability varies by market."
+    },
+    "pricing": {
+      "ev_level2_range_usd": null,
+      "dcfc_range_usd": null,
+      "solar_ppw_usd": "2.60-3.80",
+      "battery_adder_per_kwh_usd": "900-1250",
+      "site_survey": "Virtual + onsite"
+    },
+    "warranty": {
+      "labor_years": 10,
+      "equipment_years": 25,
+      "performance_guarantee": null,
+      "notes": "Warranty terms vary by project."
+    },
+    "permit_handling": true,
+    "rebates_and_programs": [
+      "Utility interconnection",
+      "ITC guidance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "contacts": {
+      "phone": null,
+      "email": null,
+      "website": "https://americansolarandroofing.com"
+    },
+    "support_hours": "Mon-Fri 8am-6pm local",
+    "ratings": {
+      "average": null,
+      "review_count": null,
+      "source": null
+    },
+    "featured_projects": [],
+    "sustainability_practices": [
+      "Recycles packaging where possible",
+      "Remote monitoring to reduce truck rolls"
+    ],
+    "tags": [
+      "Solar",
+      "Roofing",
+      "Arizona"
+    ],
+    "photos": {
+      "logo": "https://logo.clearbit.com/americansolarandroofing.com",
+      "gallery": []
+    },
+    "data_quality_notes": "Verify phone/email, service area, and equipment mix before publishing.",
+    "slug": "american-solar-roofing"
   }
 ]

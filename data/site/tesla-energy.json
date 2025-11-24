@@ -90,7 +90,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-800-555-0009",
+    "phone": "+1-888-765-2489 (placeholder)",
     "email": "energy@tesla.com (placeholder)",
     "website": "https://www.tesla.com/energy"
   },
@@ -104,7 +104,7 @@
     {
       "name": "Solar + Powerwall + EV circuit",
       "location": "Sacramento, CA",
-      "scope_kw": 10,
+      "scope_kw": 10.0,
       "chargers_installed": 1,
       "year": 2024,
       "equipment": [
@@ -125,7 +125,7 @@
     "VPP"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=Tesla%20Energy",
+    "logo": "https://placehold.co/160x160?text=Tesla",
     "gallery": []
   },
   "data_quality_notes": "EV circuit availability varies by market; confirm local queue times.",

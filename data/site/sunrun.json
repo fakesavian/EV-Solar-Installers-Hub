@@ -98,7 +98,7 @@
     "Spanish"
   ],
   "contacts": {
-    "phone": "+1-800-555-0007",
+    "phone": "+1-855-478-6786 (placeholder)",
     "email": "support@sunrun.com (placeholder)",
     "website": "https://sunrun.com"
   },
@@ -133,7 +133,7 @@
     "EV-ready"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=Sunrun",
+    "logo": "https://placehold.co/160x160?text=Sunrun",
     "gallery": []
   },
   "data_quality_notes": "Confirm EV charger availability per state; pricing varies by utility zone.",

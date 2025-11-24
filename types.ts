@@ -95,6 +95,7 @@ export interface DirectoryInstallerNormalized extends DirectoryInstaller {
   slug: string;
   suitableFor: string[];
   tags: string[];
+  categoryKeys: string[];
 }
 
 export interface Testimonial {
@@ -116,4 +117,10 @@ export interface ChatMessage {
   sender: ChatSender;
   text: string;
   timestamp: number;
+}
+
+export interface InstallerCategory {
+  slug: string;
+  label: string;
+  count: number;
 }

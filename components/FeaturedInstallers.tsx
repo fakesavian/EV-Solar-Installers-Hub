@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { Star, MapPin, Search, X, Tag } from 'lucide-react';
 import { DirectoryInstallerNormalized } from '../types';
-import { installersList as allInstallers } from '../data/installersData';
+import { installersList as allInstallers, slugify } from '../data/installersData';
 
 interface Props {
   installers?: DirectoryInstallerNormalized[];
@@ -34,6 +34,28 @@ const FeaturedInstallers: React.FC<Props> = ({ onNavigate, installers }) => {
   const tags = useMemo(() => {
     const t = data.flatMap((i) => i.tags || []);
     return ['All', ...Array.from(new Set(t)).sort()];
+  }, [data]);
+
+  const derivedCategories = useMemo(() => {
+    const map = new Map<string, { slug: string; label: string; count: number }>();
+    data.forEach((i) => {
+      const labels = [...(i.suitableFor || []), ...(i.tags || []), i.category].filter(Boolean) as string[];
+      labels.forEach((label) => {
+        const cleanLabel = (label || '').trim();
+        const slug = slugify(cleanLabel);
+        if (!slug) return;
+        const existing = map.get(slug);
+        map.set(slug, {
+          slug,
+          label: existing?.label || cleanLabel,
+          count: (existing?.count ?? 0) + 1,
+        });
+      });
+    });
+    return Array.from(map.values()).sort((a, b) => {
+      if (b.count === a.count) return a.label.localeCompare(b.label);
+      return b.count - a.count;
+    });
   }, [data]);
 
   const filteredInstallers = useMemo(() => {
@@ -170,6 +192,33 @@ const FeaturedInstallers: React.FC<Props> = ({ onNavigate, installers }) => {
           </div>
         </div>
 
+        <div className="bg-white border border-slate-200 rounded-2xl shadow-sm p-5 mb-8">
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3 mb-4">
+            <div>
+              <h3 className="text-lg font-semibold text-slate-900">Browse categories & tags</h3>
+              <p className="text-slate-600 text-sm">
+                Pulled directly from <code className="font-mono text-xs bg-slate-100 px-1.5 py-0.5 rounded">suitableFor</code> and <code className="font-mono text-xs bg-slate-100 px-1.5 py-0.5 rounded">tags</code> in the JSON files.
+              </p>
+            </div>
+            <p className="text-sm text-slate-500">{derivedCategories.length} category routes</p>
+          </div>
+          <div className="flex flex-wrap gap-2">
+            {derivedCategories.slice(0, 60).map((cat) => (
+              <button
+                key={cat.slug}
+                onClick={() => onNavigate({ page: 'category', slug: cat.slug })}
+                className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-100 text-slate-700 text-sm font-semibold hover:bg-emerald-50 hover:text-emerald-700 transition"
+              >
+                <Tag size={12} />
+                <span className="capitalize">{cat.label}</span>
+                <span className="text-xs font-bold px-2 py-0.5 rounded-full bg-white text-slate-500 border border-slate-200">
+                  {cat.count}
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredInstallers.map((installer) => (
             <InstallerCard key={installer.slug} installer={installer} onNavigate={onNavigate} />
@@ -216,7 +265,7 @@ const InstallerCard: React.FC<{ installer: DirectoryInstallerNormalized; onNavig
       </button>
       <div className="flex items-center text-slate-500 text-sm mb-2">
         <MapPin size={14} className="mr-1" />
-        {installer.hq ? `${installer.hq.city}, ${installer.hq.state}` : '—'}
+        {installer.hq ? `${installer.hq.city}, ${installer.hq.state}` : 'N/A'}
       </div>
 
       <p className="text-sm text-slate-600 mb-4 line-clamp-2">{installer.description}</p>
@@ -246,7 +295,7 @@ const InstallerCard: React.FC<{ installer: DirectoryInstallerNormalized; onNavig
         {(installer.tags || []).slice(0, 6).map((t) => (
           <button
             key={t}
-            onClick={() => onNavigate({ page: 'category', slug: t })}
+            onClick={() => onNavigate({ page: 'category', slug: slugify(t) })}
             className="text-xs font-medium px-2.5 py-1 bg-slate-100 text-slate-600 rounded-md hover:bg-emerald-50 hover:text-emerald-700 inline-flex items-center gap-1"
           >
             <Tag size={12} />
@@ -268,7 +317,7 @@ const InstallerCard: React.FC<{ installer: DirectoryInstallerNormalized; onNavig
             target="_blank"
             rel="noreferrer"
           >
-            View website →
+            View website &rarr;
           </a>
         )}
       </div>

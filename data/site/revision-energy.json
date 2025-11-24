@@ -85,7 +85,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-800-555-0021",
+    "phone": "+1-207-000-0000 (placeholder)",
     "email": "hello@revisionenergy.com (placeholder)",
     "website": "https://www.revisionenergy.com"
   },
@@ -99,7 +99,7 @@
     {
       "name": "School solar + EV chargers",
       "location": "Portland, ME",
-      "scope_kw": 200,
+      "scope_kw": 200.0,
       "chargers_installed": 8,
       "year": 2024,
       "equipment": [
@@ -122,7 +122,7 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=ReVision%20Energy",
+    "logo": "https://placehold.co/160x160?text=ReVision",
     "gallery": []
   },
   "data_quality_notes": "Confirm current rebate availability per utility.",

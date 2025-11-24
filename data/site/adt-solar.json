@@ -91,7 +91,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-800-555-0013",
+    "phone": "+1-833-409-1007 (placeholder)",
     "email": "support@adt-solar.com (placeholder)",
     "website": "https://www.adtsolar.com"
   },
@@ -105,7 +105,7 @@
     {
       "name": "Solar + security bundle",
       "location": "Houston, TX",
-      "scope_kw": 9,
+      "scope_kw": 9.0,
       "chargers_installed": 0,
       "year": 2024,
       "equipment": [
@@ -125,7 +125,7 @@
     "Smart Home"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=ADT%20Solar%20(formerly%20Sunpro)",
+    "logo": "https://placehold.co/160x160?text=ADT",
     "gallery": []
   },
   "data_quality_notes": "Confirm EV wiring availability and state coverage.",

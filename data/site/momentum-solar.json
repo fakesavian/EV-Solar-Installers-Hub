@@ -85,7 +85,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-800-555-0017",
+    "phone": "+1-888-338-7786 (placeholder)",
     "email": "care@momentumsolar.com (placeholder)",
     "website": "https://momentumsolar.com"
   },
@@ -99,7 +99,7 @@
     {
       "name": "Northeast rooftop solar",
       "location": "Hartford, CT",
-      "scope_kw": 7,
+      "scope_kw": 7.0,
       "chargers_installed": 0,
       "year": 2024,
       "equipment": [
@@ -118,7 +118,7 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=Momentum%20Solar",
+    "logo": "https://placehold.co/160x160?text=Momentum",
     "gallery": []
   },
   "data_quality_notes": "Confirm availability of PPAs and batteries per state.",

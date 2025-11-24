@@ -79,7 +79,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-800-555-0029",
+    "phone": "+1-888-000-0001 (placeholder)",
     "email": "support@posigen.com (placeholder)",
     "website": "https://www.posigen.com"
   },
@@ -93,7 +93,7 @@
     {
       "name": "Lease-based rooftop solar",
       "location": "Baton Rouge, LA",
-      "scope_kw": 7,
+      "scope_kw": 7.0,
       "chargers_installed": 0,
       "year": 2024,
       "equipment": [
@@ -113,7 +113,7 @@
     "Efficiency"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=PosiGen",
+    "logo": "https://placehold.co/160x160?text=PosiGen",
     "gallery": []
   },
   "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary.",

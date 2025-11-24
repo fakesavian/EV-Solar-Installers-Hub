@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowLeft, MapPin, Phone, Globe, Mail, Star, Tag } from 'lucide-react';
 import { DirectoryInstallerNormalized } from '../types';
+import { slugify } from '../data/installersData';
 
 interface Props {
   installer: DirectoryInstallerNormalized;
@@ -48,7 +49,7 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
               {installer.ratings?.average && (
                 <span className="inline-flex items-center gap-2">
                   <Star size={14} className="text-yellow-500 fill-yellow-500" />
-                  {installer.ratings.average.toFixed(1)} ({installer.ratings.review_count ?? '—'} reviews)
+                  {installer.ratings.average.toFixed(1)} ({installer.ratings.review_count ?? 'N/A'} reviews)
                 </span>
               )}
             </div>
@@ -56,7 +57,7 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
               {(installer.tags || []).map((t) => (
                 <button
                   key={t}
-                  onClick={() => onNavigate({ page: 'category', slug: t })}
+                  onClick={() => onNavigate({ page: 'category', slug: slugify(t) })}
                   className="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-lg bg-slate-100 text-slate-600 hover:bg-emerald-50 hover:text-emerald-700"
                 >
                   <Tag size={12} />
@@ -67,6 +68,35 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
           </div>
         </div>
       </div>
+
+      <Section title="Company Snapshot">
+        <div className="flex flex-wrap gap-2 text-xs font-semibold text-slate-700">
+          {installer.founded_year && (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">Founded {installer.founded_year}</span>
+          )}
+          {installer.employees_estimate && (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">Team: {installer.employees_estimate}</span>
+          )}
+          {installer.permit_handling != null && (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">
+              Permitting: {installer.permit_handling ? 'Handled' : 'By customer'}
+            </span>
+          )}
+          {installer.support_hours && (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">Support: {installer.support_hours}</span>
+          )}
+          {installer.languages?.length ? (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">
+              Languages: {installer.languages.join(', ')}
+            </span>
+          ) : null}
+          {installer.suitableFor?.length ? (
+            <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700">
+              Suitable for: {installer.suitableFor.join(', ')}
+            </span>
+          ) : null}
+        </div>
+      </Section>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Section title="Service Coverage">
@@ -169,7 +199,7 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
                   <div className="font-semibold text-slate-900">{p.name}</div>
                   <div className="text-slate-600">{p.location}</div>
                   <div className="text-slate-600">
-                    {p.scope_kw ? `${p.scope_kw} kW • ` : ''}{p.year || 'Year n/a'}
+                    {p.scope_kw ? `${p.scope_kw} kW - ` : ''}{p.year || 'Year n/a'}
                   </div>
                   {p.chargers_installed != null && <div className="text-slate-600">Chargers: {p.chargers_installed}</div>}
                   {p.equipment?.length ? <div className="text-slate-600">Equipment: {p.equipment.join(', ')}</div> : null}
@@ -194,8 +224,8 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
         </div>
       </Section>
 
-      <Section title="Contact">
-        <div className="flex flex-wrap gap-4 text-sm text-slate-700">
+      <Section title="Contact & Programs">
+        <div className="flex flex-wrap gap-4 text-sm text-slate-700 mb-4">
           {installer.contacts?.phone && (
             <span className="inline-flex items-center gap-2">
               <Phone size={14} /> {installer.contacts.phone}
@@ -217,9 +247,20 @@ const InstallerDetail: React.FC<Props> = ({ installer, onNavigate }) => {
             </a>
           )}
         </div>
+        {installer.rebates_and_programs?.length ? (
+          <div className="text-sm text-slate-700 space-y-1">
+            <div className="font-semibold text-slate-900">Rebates & Programs</div>
+            <ul className="list-disc list-inside space-y-1">
+              {installer.rebates_and_programs.map((r) => (
+                <li key={r}>{r}</li>
+              ))}
+            </ul>
+          </div>
+        ) : null}
       </Section>
     </div>
   );
 };
 
 export default InstallerDetail;
+

@@ -83,7 +83,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-800-555-0024",
+    "phone": "+1-910-000-0000 (placeholder)",
     "email": "info@capefearsolarsystems.com (placeholder)",
     "website": "https://www.capefearsolarsystems.com"
   },
@@ -97,7 +97,7 @@
     {
       "name": "Solar + battery coastal install",
       "location": "Wilmington, NC",
-      "scope_kw": 9,
+      "scope_kw": 9.0,
       "chargers_installed": 1,
       "year": 2024,
       "equipment": [
@@ -119,7 +119,7 @@
     "Carolinas"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=Cape%20Fear%20Solar%20Systems",
+    "logo": "https://placehold.co/160x160?text=CapeFear",
     "gallery": []
   },
   "data_quality_notes": "Verify interconnection and net billing details by utility.",

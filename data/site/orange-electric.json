@@ -87,7 +87,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-800-555-0030",
+    "phone": "+1-801-000-0000 (placeholder)",
     "email": "info@orangeelectric.com (placeholder)",
     "website": "https://www.orangeelectric.com"
   },
@@ -101,7 +101,7 @@
     {
       "name": "Solar + EV circuit upgrade",
       "location": "Salt Lake City, UT",
-      "scope_kw": 8,
+      "scope_kw": 8.0,
       "chargers_installed": 1,
       "year": 2024,
       "equipment": [
@@ -123,7 +123,7 @@
     "Utah"
   ],
   "photos": {
-    "logo": "https://placehold.co/200x200?text=Orange%20Electric",
+    "logo": "https://placehold.co/160x160?text=Orange",
     "gallery": []
   },
   "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power.",

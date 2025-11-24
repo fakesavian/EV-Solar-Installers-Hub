@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 import AIChatButton from './components/AIChatButton';
 import InstallerDetail from './components/InstallerDetail';
 import CategoryPage from './components/CategoryPage';
-import { installersBySlug, installersList } from './data/installersData';
+import { categoriesList, installersBySlug, installersList, slugify } from './data/installersData';
 
 type Route =
   | { page: 'home' }
@@ -45,12 +45,10 @@ function App() {
 
   const categoryData = useMemo(() => {
     if (route.page !== 'category') return null;
-    const slug = route.slug;
-    const matches = installersList.filter((i) =>
-      (i.suitableFor || []).map((s) => s.toLowerCase()).includes(slug.toLowerCase()) ||
-      (i.tags || []).map((t) => t.toLowerCase()).includes(slug.toLowerCase())
-    );
-    return { slug, matches };
+    const key = slugify(route.slug);
+    const matches = installersList.filter((i) => (i.categoryKeys || []).includes(key));
+    const meta = categoriesList.find((c) => c.slug === key);
+    return { slug: key, label: meta?.label ?? route.slug, matches };
   }, [route]);
 
   const navigate = (r: Route) => {
@@ -95,6 +93,7 @@ function App() {
         {route.page === 'category' && categoryData && (
           <CategoryPage
             slug={categoryData.slug}
+            label={categoryData.label}
             installers={categoryData.matches}
             onNavigate={navigate}
           />
