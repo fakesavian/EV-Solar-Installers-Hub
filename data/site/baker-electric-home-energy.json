@@ -1,0 +1,128 @@
+{
+  "id": "baker-electric-home-energy",
+  "company_name": "Baker Electric Home Energy",
+  "category": "Hybrid",
+  "description": "Southern California installer offering solar, batteries, HVAC, and EV charger installations.",
+  "hq": {
+    "city": "Escondido",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 1938,
+  "employees_estimate": "1000+",
+  "service_area": [
+    "San Diego County, CA",
+    "Southern CA regions"
+  ],
+  "service_models": [
+    "residential",
+    "light commercial"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "EV charger installation",
+    "HVAC services",
+    "Monitoring"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "REC",
+      "Q CELLS"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals",
+    "Tesla Powerwall Certified Installer",
+    "Licensed electricians and HVAC technicians"
+  ],
+  "utility_and_partner_affiliations": [
+    "SDG&E interconnection expertise",
+    "Local rebate programs"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Bundled HVAC + solar offers available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "850-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.70-3.70",
+    "battery_adder_per_kwh_usd": "950-1250",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "HVAC warranties handled separately."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "NEM/Net billing in CA",
+    "SGIP (when open)",
+    "Utility EVSE rebates (SDG&E)"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-760-745-2001 (placeholder)",
+    "email": "info@bakerhomeenergy.com (placeholder)",
+    "website": "https://bakerhomeenergy.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.7,
+    "review_count": 1500,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + battery + EV charger",
+      "location": "San Diego, CA",
+      "scope_kw": 8.7,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "REC Alpha",
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Integrated HVAC + solar to optimize energy use",
+    "Efficient project staging to reduce waste"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV",
+    "HVAC"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Baker",
+    "gallery": []
+  },
+  "data_quality_notes": "Service area concentrated in Southern CA; confirm rebate availability."
+}

@@ -1,0 +1,130 @@
+{
+  "id": "orange-electric",
+  "company_name": "Orange Electric",
+  "category": "Hybrid",
+  "description": "Utah-based electrical contractor offering EV charger installs, panel upgrades, and residential solar with storage.",
+  "hq": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA"
+  },
+  "founded_year": 2015,
+  "employees_estimate": "300+",
+  "service_area": [
+    "UT",
+    "ID",
+    "WY",
+    "CO"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Panel/service upgrade",
+    "Rooftop solar",
+    "Battery storage",
+    "Load calculations and permitting"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians",
+    "EVITP-trained technicians (select)",
+    "NABCEP-certified professionals (select)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Rocky Mountain Power interconnection",
+    "Utility EVSE rebates (UT)"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Financing through partner lenders available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "850-2000",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": "2.60-3.40",
+    "battery_adder_per_kwh_usd": "900-1200",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 5,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included for solar installs."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility EVSE rebates (UT)",
+    "Net metering/billing (utility-specific)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-801-000-0000 (placeholder)",
+    "email": "info@orangeelectric.com (placeholder)",
+    "website": "https://www.orangeelectric.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm MT",
+  "ratings": {
+    "average": 4.8,
+    "review_count": 780,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + EV circuit upgrade",
+      "location": "Salt Lake City, UT",
+      "scope_kw": 8,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall 2",
+        "Tesla Wall Connector"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Load calculations to avoid over-sizing",
+    "Remote monitoring to reduce truck rolls"
+  ],
+  "tags": [
+    "EV",
+    "Solar",
+    "Battery",
+    "Utah"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Orange",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power."
+}

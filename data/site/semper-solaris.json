@@ -1,0 +1,120 @@
+{
+  "id": "semper-solaris",
+  "company_name": "Semper Solaris",
+  "category": "Hybrid",
+  "description": "Veteran-owned solar and roofing contractor offering solar, batteries, roofing, and EV-ready wiring.",
+  "hq": {
+    "city": "El Cajon",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2012,
+  "employees_estimate": "800+",
+  "service_area": [
+    "CA",
+    "AZ",
+    "TX",
+    "FL"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Roofing replacement",
+    "EV-ready circuits (select)"
+  ],
+  "charger_brands": [
+    "Tesla/ChargePoint wiring (by request)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select)",
+    "Roofing licenses in served states"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in served states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Roof + solar bundle financing available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "950-1900 (where offered)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.70-3.60",
+    "battery_adder_per_kwh_usd": "950-1250",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof warranty varies by material; roof + solar packages available."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/Net billing",
+    "SGIP (CA) where applicable",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (CA crews)"
+  ],
+  "contacts": {
+    "phone": "+1-888-210-3366 (placeholder)",
+    "email": "info@sempersolaris.com (placeholder)",
+    "website": "https://www.sempersolaris.com"
+  },
+  "support_hours": "Mon-Sat 8am-6pm PT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 1800,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Roof + solar + battery",
+      "location": "San Diego, CA",
+      "scope_kw": 9.5,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Roof-first approach to extend asset life",
+    "Recycling of old shingles where supported"
+  ],
+  "tags": [
+    "Solar",
+    "Roofing",
+    "Battery",
+    "Veteran-owned"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Semper",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm EV wiring availability and SGIP funding status."
+}

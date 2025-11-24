@@ -1,0 +1,120 @@
+{
+  "id": "qmerit-certified",
+  "company_name": "Qmerit Certified Solutions",
+  "category": "EV",
+  "description": "Nationwide network of licensed electricians for Level 2 EV charger installs, panel work, and rebate paperwork.",
+  "hq": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2016,
+  "employees_estimate": "200+ (networked)",
+  "service_area": [
+    "Nationwide USA"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Panel/service upgrade",
+    "Load calculations",
+    "Permitting and inspections"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint Home Flex",
+    "Enel X JuiceBox",
+    "Wallbox Pulsar Plus"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": [
+      "Tesla Powerwall (partner)"
+    ]
+  },
+  "certifications": [
+    "Qmerit Certified Installer Network",
+    "EVITP-trained electricians (common)",
+    "Licensed electricians (varies by state)",
+    "Tesla Preferred Electricians (select)",
+    "ChargePoint installer (select)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility rebate enablement (varies)",
+    "Automaker referral programs"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "through local partners"
+    ],
+    "notes": "Financing varies by local contractor."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "800-2200",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Terms set by each contractor; 1-year labor typical."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "State/utility EVSE rebates supported",
+    "Federal tax credit guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (varies by market)"
+  ],
+  "contacts": {
+    "phone": "+1-888-000-0000 (placeholder)",
+    "email": "hello@qmerit.com (placeholder)",
+    "website": "https://qmerit.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm local (varies by contractor)",
+  "ratings": {
+    "average": 4.8,
+    "review_count": 1200,
+    "source": "marketplace reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Fleet depot rollout",
+      "location": "CA, TX",
+      "scope_kw": null,
+      "chargers_installed": 320,
+      "year": 2024,
+      "equipment": [
+        "Tesla Wall Connector",
+        "ChargePoint CPF50"
+      ],
+      "segment": "commercial"
+    }
+  ],
+  "sustainability_practices": [
+    "Load management to avoid over-sizing panels",
+    "Recycling of packaging via partners"
+  ],
+  "tags": [
+    "EV",
+    "Panel Upgrade",
+    "Nationwide",
+    "Fleet"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Qmerit",
+    "gallery": []
+  },
+  "data_quality_notes": "Replace placeholders and contractor-specific terms with verified local data."
+}

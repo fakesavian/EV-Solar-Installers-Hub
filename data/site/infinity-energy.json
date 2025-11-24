@@ -1,0 +1,119 @@
+{
+  "id": "infinity-energy",
+  "company_name": "Infinity Energy",
+  "category": "Solar",
+  "description": "West Coast residential solar installer providing rooftop systems with optional batteries and EV-ready wiring.",
+  "hq": {
+    "city": "Rocklin",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2014,
+  "employees_estimate": "1000+",
+  "service_area": [
+    "CA",
+    "NV"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "EV-ready circuits",
+    "Monitoring"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector wiring",
+    "ChargePoint/Wallbox via partners"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select teams)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in CA/NV"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Promotional loans offered seasonally."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.60-3.50",
+    "battery_adder_per_kwh_usd": "900-1200",
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "CA net billing",
+    "NV net metering (utility-specific)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (CA crews)"
+  ],
+  "contacts": {
+    "phone": "+1-916-000-0000 (placeholder)",
+    "email": "support@infinityenergy.com (placeholder)",
+    "website": "https://infinityenergy.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.5,
+    "review_count": 1400,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + battery + EV-ready",
+      "location": "Roseville, CA",
+      "scope_kw": 8.5,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Digital permitting where available",
+    "Inventory kitting to reduce waste"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV-ready",
+    "California"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Infinity",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm current utility interconnection timelines and financing offers."
+}

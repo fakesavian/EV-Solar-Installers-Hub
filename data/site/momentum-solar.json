@@ -1,0 +1,125 @@
+{
+  "id": "momentum-solar",
+  "company_name": "Momentum Solar",
+  "category": "Solar",
+  "description": "Residential solar installer active in Northeast, Mid-Atlantic, and select Sun Belt states with in-house crews.",
+  "hq": {
+    "city": "South Plainfield",
+    "state": "NJ",
+    "country": "USA"
+  },
+  "founded_year": 2009,
+  "employees_estimate": "2500+",
+  "service_area": [
+    "CT",
+    "FL",
+    "MA",
+    "MD",
+    "NJ",
+    "NY",
+    "PA",
+    "TX",
+    "CA",
+    "AZ",
+    "NV"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage (select)",
+    "Monitoring",
+    "Roofing coordination"
+  ],
+  "charger_brands": [
+    "EV-ready conduit on request"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall (select)"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select teams)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in active states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "PPA (select)"
+    ],
+    "notes": "Promotions vary by market."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.50-3.30",
+    "battery_adder_per_kwh_usd": "950-1200",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Production guarantee on certain contracts",
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State incentives",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-888-338-7786 (placeholder)",
+    "email": "care@momentumsolar.com (placeholder)",
+    "website": "https://momentumsolar.com"
+  },
+  "support_hours": "Mon-Fri 9am-6pm ET",
+  "ratings": {
+    "average": 4.3,
+    "review_count": 3500,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Northeast rooftop solar",
+      "location": "Hartford, CT",
+      "scope_kw": 7,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "SolarEdge HD-Wave"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "In-house crews to manage material use",
+    "Digital proposals to reduce paper"
+  ],
+  "tags": [
+    "Solar",
+    "Northeast",
+    "In-house Crews"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Momentum",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm availability of PPAs and batteries per state."
+}

@@ -1,0 +1,132 @@
+{
+  "id": "tesla-energy",
+  "company_name": "Tesla Energy",
+  "category": "Hybrid",
+  "description": "Direct installs of rooftop solar, Powerwall batteries, and Tesla Wall Connector wiring.",
+  "hq": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA"
+  },
+  "founded_year": 2006,
+  "employees_estimate": "10000+ (energy division included)",
+  "service_area": [
+    "AZ",
+    "CA",
+    "CO",
+    "CT",
+    "FL",
+    "IL",
+    "MD",
+    "MA",
+    "NJ",
+    "NV",
+    "NY",
+    "OR",
+    "PA",
+    "TX",
+    "UT",
+    "VA",
+    "WA"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Powerwall installation",
+    "EV wall connector circuit/wiring",
+    "Monitoring via Tesla app"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tesla black-on-black modules"
+    ],
+    "inverters": [
+      "Tesla Solar Inverter"
+    ],
+    "storage": [
+      "Tesla Powerwall 3/2"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians",
+    "NABCEP professionals in select markets"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection workflows",
+    "Virtual Power Plant participation (select markets)"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Online-first quoting and contracts."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "750-1500 (circuit-only; hardware sold separately)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.40-3.20",
+    "battery_adder_per_kwh_usd": "800-1100",
+    "site_survey": "Virtual imagery + onsite as needed"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Solar production guarantee per contract",
+    "notes": "Roof leak warranty on penetrations."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing applications",
+    "VPP enrollments (CA, TX select utilities)",
+    "ITC support"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-888-765-2489 (placeholder)",
+    "email": "energy@tesla.com (placeholder)",
+    "website": "https://www.tesla.com/energy"
+  },
+  "support_hours": "Online scheduling; phone support Mon-Fri 8am-5pm local",
+  "ratings": {
+    "average": 4.2,
+    "review_count": 8000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + Powerwall + EV circuit",
+      "location": "Sacramento, CA",
+      "scope_kw": 10,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Tesla Solar Inverter",
+        "Powerwall 3"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Digital-first permitting to reduce site visits",
+    "Integrated monitoring to optimize consumption"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "Tesla Wall Connector",
+    "VPP"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Tesla",
+    "gallery": []
+  },
+  "data_quality_notes": "EV circuit availability varies by market; confirm local queue times."
+}

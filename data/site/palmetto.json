@@ -1,0 +1,136 @@
+{
+  "id": "palmetto",
+  "company_name": "Palmetto",
+  "category": "Hybrid",
+  "description": "Software-enabled solar provider with national installer network and energy monitoring app.",
+  "hq": {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA"
+  },
+  "founded_year": 2009,
+  "employees_estimate": "1500+",
+  "service_area": [
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "GA",
+    "IL",
+    "MD",
+    "MA",
+    "NC",
+    "NJ",
+    "NV",
+    "NY",
+    "OH",
+    "PA",
+    "SC",
+    "TX",
+    "UT",
+    "VA"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Monitoring app",
+    "O&M plans",
+    "EV-ready circuit wiring (select)"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector (wiring)",
+    "ChargePoint/Wallbox via partners"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (partnered crews)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in active states",
+    "Home services marketplace integrations"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Subscriptions for monitoring/O&M available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900 (where offered)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.50-3.40",
+    "battery_adder_per_kwh_usd": "900-1200",
+    "site_survey": "Virtual design + onsite verification"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Service plans offered separately."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State solar rebates",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-855-339-1831 (placeholder)",
+    "email": "hello@palmetto.com (placeholder)",
+    "website": "https://palmetto.com"
+  },
+  "support_hours": "Mon-Fri 8am-8pm ET",
+  "ratings": {
+    "average": 4.4,
+    "review_count": 1800,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + monitoring bundle",
+      "location": "Atlanta, GA",
+      "scope_kw": 8,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Digital design to reduce site visits",
+    "Energy monitoring to encourage efficiency"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "Monitoring",
+    "EV-ready"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Palmetto",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm EV circuit availability and financing per state."
+}

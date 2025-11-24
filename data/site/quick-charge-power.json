@@ -1,0 +1,116 @@
+{
+  "id": "quick-charge-power",
+  "company_name": "Quick Charge Power",
+  "category": "EV",
+  "description": "California-based EV specialist providing residential and light commercial charger installs and panel upgrades.",
+  "hq": {
+    "city": "Buena Park",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2012,
+  "employees_estimate": "100+",
+  "service_area": [
+    "CA",
+    "AZ",
+    "NV"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Panel/service upgrade",
+    "Dedicated circuits",
+    "DCFC feasibility studies (select)"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "ClipperCreek"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": []
+  },
+  "certifications": [
+    "Licensed electricians in served states",
+    "EVITP-trained technicians (select)"
+  ],
+  "utility_and_partner_affiliations": [
+    "California utility EVSE rebates",
+    "Fleet pilot projects (select)"
+  ],
+  "financing": {
+    "options": [
+      "cash"
+    ],
+    "notes": "Financing available through partner lenders (check market)."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "800-2100",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Extended labor warranties available on request."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "CA utility EVSE rebates",
+    "NV energy EV programs (select)",
+    "AZ utility EV programs (select)"
+  ],
+  "languages": [
+    "English",
+    "Spanish (CA crews)"
+  ],
+  "contacts": {
+    "phone": "+1-844-000-0000 (placeholder)",
+    "email": "info@quickchargepower.com (placeholder)",
+    "website": "https://www.quickchargepower.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.7,
+    "review_count": 420,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Residential EV upgrade",
+      "location": "Orange County, CA",
+      "scope_kw": null,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Tesla Wall Connector"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Right-sizing conductors and conduit",
+    "Encouraging off-peak charging schedules"
+  ],
+  "tags": [
+    "EV",
+    "Residential",
+    "Commercial",
+    "California"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=QCP",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify rebate eligibility per utility territory."
+}

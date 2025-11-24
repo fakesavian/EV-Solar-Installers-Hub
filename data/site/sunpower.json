@@ -1,0 +1,119 @@
+{
+  "id": "sunpower",
+  "company_name": "SunPower",
+  "category": "Solar",
+  "description": "Premium solar brand with dealer network focused on high-efficiency panels, batteries, and monitoring.",
+  "hq": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 1985,
+  "employees_estimate": "4000+",
+  "service_area": [
+    "Nationwide USA via dealer network"
+  ],
+  "service_models": [
+    "residential",
+    "commercial (select dealers)"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Monitoring",
+    "Roofing coordination",
+    "EV-ready wiring (select)"
+  ],
+  "charger_brands": [
+    "Dealer-dependent (commonly Tesla/ChargePoint)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "SunPower M-series/AC modules"
+    ],
+    "inverters": [
+      "Enphase IQ"
+    ],
+    "storage": [
+      "SunVault Storage"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (dealer-dependent)",
+    "SunPower Elite/Equinox dealer tiers"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection managed by dealers",
+    "Homebuilder partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "lease"
+    ],
+    "notes": "Financing offered through SunPower Financial and partners."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "3.00-4.00",
+    "battery_adder_per_kwh_usd": "1000-1400",
+    "site_survey": "Virtual + onsite via dealers"
+  },
+  "warranty": {
+    "labor_years": 25,
+    "equipment_years": 25,
+    "performance_guarantee": "Performance guarantee on SunPower modules",
+    "notes": "Long combined warranty."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/Net billing",
+    "State solar rebates",
+    "ITC paperwork guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (dealer dependent)"
+  ],
+  "contacts": {
+    "phone": "+1-800-786-7693 (placeholder)",
+    "email": "info@sunpower.com (placeholder)",
+    "website": "https://us.sunpower.com"
+  },
+  "support_hours": "Mon-Fri 8am-8pm CT",
+  "ratings": {
+    "average": 4.4,
+    "review_count": 5000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "High-efficiency residential install",
+      "location": "San Diego, CA",
+      "scope_kw": 9.2,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "SunPower M-series",
+        "SunVault"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "High-efficiency modules reduce rooftop material use",
+    "Remote monitoring to limit truck rolls"
+  ],
+  "tags": [
+    "Solar",
+    "Premium Panels",
+    "Long Warranty"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=SunPower",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm dealer coverage and warranty details per region."
+}

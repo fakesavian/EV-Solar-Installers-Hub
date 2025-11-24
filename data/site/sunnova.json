@@ -1,0 +1,121 @@
+{
+  "id": "sunnova",
+  "company_name": "Sunnova",
+  "category": "Solar",
+  "description": "Dealer-based solar and storage provider with long-term service plans.",
+  "hq": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA"
+  },
+  "founded_year": 2012,
+  "employees_estimate": "2000+",
+  "service_area": [
+    "Nationwide USA via dealer network"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Monitoring",
+    "O&M plans",
+    "EV-ready electrical (dealer dependent)"
+  ],
+  "charger_brands": [
+    "Dealer dependent"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery",
+      "Sunnova SunSafe"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (dealer dependent)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Interconnection handled by dealers",
+    "Retail/homebuilder partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "lease",
+      "PPA"
+    ],
+    "notes": "Service agreements common on PPA/lease."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.60-3.60",
+    "battery_adder_per_kwh_usd": "950-1250",
+    "site_survey": "Virtual + onsite via dealers"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Production guarantees on lease/PPA",
+    "notes": "Service and monitoring included on certain plans."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State rebates",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (many dealers)"
+  ],
+  "contacts": {
+    "phone": "+1-866-786-6682 (placeholder)",
+    "email": "support@sunnova.com (placeholder)",
+    "website": "https://sunnova.com"
+  },
+  "support_hours": "Mon-Fri 8am-8pm CT",
+  "ratings": {
+    "average": 4.2,
+    "review_count": 3500,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Battery-backed solar",
+      "location": "Houston, TX",
+      "scope_kw": 7.8,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "SolarEdge",
+        "Powerwall"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Remote monitoring to reduce truck rolls",
+    "Dealer training on code-compliant installs"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "PPA/Lease"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Sunnova",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm dealer availability and financing offers by ZIP."
+}

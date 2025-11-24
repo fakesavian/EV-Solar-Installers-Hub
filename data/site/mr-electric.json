@@ -1,0 +1,109 @@
+{
+  "id": "mr-electric",
+  "company_name": "Mr. Electric (Neighborly)",
+  "category": "EV",
+  "description": "Franchise electrician network offering home EV charger installs and panel upgrades.",
+  "hq": {
+    "city": "Waco",
+    "state": "TX",
+    "country": "USA"
+  },
+  "founded_year": 1994,
+  "employees_estimate": "150+ locations",
+  "service_area": [
+    "Nationwide USA (coverage varies by franchise)"
+  ],
+  "service_models": [
+    "residential",
+    "light commercial"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Panel/service upgrade",
+    "Dedicated circuit install",
+    "Surge protection"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": []
+  },
+  "certifications": [
+    "Licensed electricians",
+    "EVITP availability varies by franchise"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility rebate familiarity varies by franchise"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "franchise-level financing may be available"
+    ],
+    "notes": "Policies differ by location."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "600-1800",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Warranty terms vary by franchise."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Varies by local franchise; common utility rebate processing where available"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-844-866-1367 (placeholder)",
+    "email": "contact@mrelectric.com (placeholder)",
+    "website": "https://mrelectric.com"
+  },
+  "support_hours": "Mon-Fri 8am-5pm local",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 900,
+    "source": "franchise aggregate (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Home EV readiness upgrade",
+      "location": "Phoenix, AZ",
+      "scope_kw": null,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Tesla Wall Connector"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Right-sizing conductors and breakers",
+    "Offering load management devices when applicable"
+  ],
+  "tags": [
+    "EV",
+    "Residential",
+    "Franchise"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=MrElectric",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level."
+}

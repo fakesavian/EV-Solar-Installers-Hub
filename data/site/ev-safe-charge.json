@@ -1,0 +1,123 @@
+{
+  "id": "ev-safe-charge",
+  "company_name": "EV Safe Charge",
+  "category": "EV",
+  "description": "EV infrastructure specialist for residential installs and turnkey commercial/event deployments.",
+  "hq": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2016,
+  "employees_estimate": "50+",
+  "service_area": [
+    "CA",
+    "NV",
+    "AZ",
+    "NY",
+    "NJ"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "events"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Portable/event charging solutions",
+    "Load management and permitting",
+    "Commercial site design"
+  ],
+  "charger_brands": [
+    "Tesla",
+    "ChargePoint",
+    "Wallbox",
+    "Blink",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": [
+      "Battery carts for events"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians in served states",
+    "EVITP-trained crews (select projects)",
+    "Tesla Preferred Electricians (select)",
+    "ChargePoint installer (select)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Event partnerships for temporary charging",
+    "Utility rebate navigation (CA heavy)"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "commercial terms"
+    ],
+    "notes": "Event rentals and temporary charging priced per event scope."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "850-2100",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Event deployments carry project-based terms."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "California utility EVSE rebates",
+    "NY/NJ utility EV programs"
+  ],
+  "languages": [
+    "English",
+    "Spanish (Los Angeles crews)"
+  ],
+  "contacts": {
+    "phone": "+1-844-386-3834 (placeholder)",
+    "email": "info@evsafecharge.com (placeholder)",
+    "website": "https://evsafecharge.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.7,
+    "review_count": 220,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Event charging deployment",
+      "location": "Las Vegas, NV",
+      "scope_kw": null,
+      "chargers_installed": 25,
+      "year": 2024,
+      "equipment": [
+        "Portable Level 2 units"
+      ],
+      "segment": "events"
+    }
+  ],
+  "sustainability_practices": [
+    "Temporary solutions with reusable cabling kits",
+    "Encourages off-peak charging plans"
+  ],
+  "tags": [
+    "EV",
+    "Events",
+    "Commercial",
+    "California"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=EVSafe",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm current state coverage and event availability before publishing."
+}

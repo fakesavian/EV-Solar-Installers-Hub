@@ -1,0 +1,122 @@
+{
+  "id": "ion-solar",
+  "company_name": "ION Solar",
+  "category": "Solar",
+  "description": "Residential solar installer with in-house crews across Western and Sun Belt states.",
+  "hq": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "USA"
+  },
+  "founded_year": 2013,
+  "employees_estimate": "2000+",
+  "service_area": [
+    "AZ",
+    "CO",
+    "FL",
+    "NV",
+    "NM",
+    "NC",
+    "SC",
+    "TX",
+    "UT",
+    "VA"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Monitoring",
+    "Battery storage (select)",
+    "Roofing coordination"
+  ],
+  "charger_brands": [
+    "EV-ready conduit (by request)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase"
+    ],
+    "storage": [
+      "Tesla Powerwall (select markets)"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select teams)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in active states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Promotional loan products offered seasonally."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.50-3.30",
+    "battery_adder_per_kwh_usd": "950-1200",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State rebates",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-888-781-7074 (placeholder)",
+    "email": "care@ionsolar.com (placeholder)",
+    "website": "https://ionsolar.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm MT",
+  "ratings": {
+    "average": 4.5,
+    "review_count": 3000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Sun Belt residential solar",
+      "location": "Las Vegas, NV",
+      "scope_kw": 8,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "In-house crews for quality control",
+    "Digital proposals"
+  ],
+  "tags": [
+    "Solar",
+    "Sun Belt",
+    "In-house Crews"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=ION",
+    "gallery": []
+  },
+  "data_quality_notes": "Battery availability varies by market; verify loan promotions."
+}

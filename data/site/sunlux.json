@@ -1,0 +1,127 @@
+{
+  "id": "sunlux",
+  "company_name": "SunLux",
+  "category": "Hybrid",
+  "description": "California-based solar installer offering rooftop solar, batteries, and EV-ready wiring with concierge project management.",
+  "hq": {
+    "city": "Ontario",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2015,
+  "employees_estimate": "600+",
+  "service_area": [
+    "CA",
+    "NV",
+    "TX"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "EV-ready circuits",
+    "Monitoring",
+    "Roofing coordination"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "SunPower",
+      "REC",
+      "Q CELLS"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select)",
+    "Tesla Powerwall Certified Installer"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in CA/NV/TX",
+    "Homebuilder partnerships (select)"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Promotional financing offered seasonally."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.70-3.70",
+    "battery_adder_per_kwh_usd": "900-1250",
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net billing (CA)",
+    "NV/TX utility interconnection",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (CA crews)"
+  ],
+  "contacts": {
+    "phone": "+1-877-000-0000 (placeholder)",
+    "email": "support@sunlux.com (placeholder)",
+    "website": "https://sunlux.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 1200,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + battery + EV-ready",
+      "location": "Riverside, CA",
+      "scope_kw": 9,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "SunPower modules",
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Digital design to reduce truck rolls",
+    "Roofing coordination to extend roof life"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV-ready",
+    "California"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=SunLux",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm financing promos and interconnection timelines per utility."
+}

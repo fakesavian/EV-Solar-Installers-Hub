@@ -1,0 +1,121 @@
+{
+  "id": "incharge-energy",
+  "company_name": "InCharge Energy",
+  "category": "EV",
+  "description": "Turnkey commercial and fleet EV infrastructure provider delivering design, hardware, installation, and O&M.",
+  "hq": {
+    "city": "Santa Monica",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2018,
+  "employees_estimate": "400+",
+  "service_area": [
+    "Nationwide USA"
+  ],
+  "service_models": [
+    "commercial",
+    "fleet",
+    "depot",
+    "multifamily"
+  ],
+  "services_offered": [
+    "Level 2 and DCFC installation",
+    "Site design and load study",
+    "Permitting and utility coordination",
+    "Managed charging software",
+    "O&M and SLAs"
+  ],
+  "charger_brands": [
+    "ABB",
+    "BTC Power",
+    "Delta",
+    "Wallbox",
+    "ChargePoint (select)"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": [
+      "Battery integration on select projects"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians in served states",
+    "EVITP-trained crews (select)",
+    "OEM hardware training"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility rebate navigation for DCFC/L2",
+    "Fleet OEM partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "service contracts"
+    ],
+    "notes": "Charging-as-a-service and SLA-based models available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "Custom per port",
+    "dcfc_range_usd": "25000-90000 (site-dependent)",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Onsite + load study"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 3,
+    "performance_guarantee": "Uptime SLAs on service contracts",
+    "notes": "SLA terms vary by contract."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility fleet/DCFC rebates",
+    "State commercial EV programs"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-424-000-0000 (placeholder)",
+    "email": "sales@inchargeus.com (placeholder)",
+    "website": "https://inchargeus.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 280,
+    "source": "customer references (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Fleet depot electrification",
+      "location": "Dallas, TX",
+      "scope_kw": null,
+      "chargers_installed": 110,
+      "year": 2024,
+      "equipment": [
+        "ABB Terra DCFC",
+        "Wallbox L2"
+      ],
+      "segment": "fleet"
+    }
+  ],
+  "sustainability_practices": [
+    "Load-managed charging to avoid transformer upgrades",
+    "Lifecycle O&M to extend hardware life"
+  ],
+  "tags": [
+    "EV",
+    "Fleet",
+    "DCFC",
+    "Managed Charging",
+    "Commercial"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=InCharge",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project."
+}

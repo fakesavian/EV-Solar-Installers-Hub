@@ -1,0 +1,115 @@
+{
+  "id": "evercharge",
+  "company_name": "EverCharge",
+  "category": "EV",
+  "description": "Commercial and multifamily EV charging provider offering hardware, software, and turnkey installation.",
+  "hq": {
+    "city": "Fremont",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2013,
+  "employees_estimate": "300+",
+  "service_area": [
+    "Nationwide USA (commercial focus)"
+  ],
+  "service_models": [
+    "commercial",
+    "multifamily",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Load management software",
+    "Site design and permitting",
+    "Operations and maintenance"
+  ],
+  "charger_brands": [
+    "EverCharge Level 2",
+    "Tesla adapter support",
+    "Other OEMs (project dependent)"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": [
+      "Battery integration on select projects"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians",
+    "EVITP-trained crews (select)",
+    "UL-certified hardware"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility rebate processing for multifamily programs",
+    "Property management partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "service contracts"
+    ],
+    "notes": "Charging-as-a-service available for some multifamily projects."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "Custom per port",
+    "dcfc_range_usd": "Custom (limited DCFC)",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Onsite + load study"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 3,
+    "performance_guarantee": "Uptime SLAs on service contracts",
+    "notes": "SLA terms vary by contract."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Multifamily EVSE utility rebates",
+    "State commercial EV programs"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-888-387-1326 (placeholder)",
+    "email": "sales@evercharge.com (placeholder)",
+    "website": "https://evercharge.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.5,
+    "review_count": 300,
+    "source": "customer references (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Multifamily EV retrofit",
+      "location": "San Francisco, CA",
+      "scope_kw": null,
+      "chargers_installed": 120,
+      "year": 2024,
+      "equipment": [
+        "EverCharge Level 2 with load management"
+      ],
+      "segment": "multifamily"
+    }
+  ],
+  "sustainability_practices": [
+    "Load-managed charging to reduce utility upgrades",
+    "O&M programs to extend hardware life"
+  ],
+  "tags": [
+    "EV",
+    "Multifamily",
+    "Load Management",
+    "Commercial"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=EverCharge",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm service contract terms and rebate programs per state."
+}

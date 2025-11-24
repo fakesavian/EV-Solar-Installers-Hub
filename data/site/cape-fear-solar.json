@@ -1,0 +1,126 @@
+{
+  "id": "cape-fear-solar",
+  "company_name": "Cape Fear Solar Systems",
+  "category": "Hybrid",
+  "description": "Regional solar EPC in the Carolinas offering solar, batteries, EV-ready wiring, and monitoring.",
+  "hq": {
+    "city": "Wilmington",
+    "state": "NC",
+    "country": "USA"
+  },
+  "founded_year": 2007,
+  "employees_estimate": "300+",
+  "service_area": [
+    "NC",
+    "SC",
+    "VA"
+  ],
+  "service_models": [
+    "residential",
+    "commercial"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Level 2 EV-ready circuits",
+    "Monitoring and O&M",
+    "Roofing coordination (select)"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "REC",
+      "Q CELLS"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals",
+    "Tesla Powerwall Certified Installer"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in Carolinas",
+    "Local builder partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Local lender partnerships available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.60-3.50",
+    "battery_adder_per_kwh_usd": "900-1200",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/Net billing (utility-specific)",
+    "State/utility battery rebates (select)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-910-000-0000 (placeholder)",
+    "email": "info@capefearsolarsystems.com (placeholder)",
+    "website": "https://www.capefearsolarsystems.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm ET",
+  "ratings": {
+    "average": 4.8,
+    "review_count": 950,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + battery coastal install",
+      "location": "Wilmington, NC",
+      "scope_kw": 9,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "REC Alpha",
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Roof-friendly mounting near coast",
+    "Packaging recycling where supported"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV-ready",
+    "Carolinas"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=CapeFear",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify interconnection and net billing details by utility."
+}

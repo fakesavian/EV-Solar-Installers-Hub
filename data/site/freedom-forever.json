@@ -1,0 +1,126 @@
+{
+  "id": "freedom-forever",
+  "company_name": "Freedom Forever",
+  "category": "Solar",
+  "description": "EPC offering residential solar with performance guarantees in multiple states.",
+  "hq": {
+    "city": "Temecula",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2011,
+  "employees_estimate": "3000+",
+  "service_area": [
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "IL",
+    "NV",
+    "SC",
+    "TX",
+    "UT"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Performance guarantees",
+    "Roofing coordination"
+  ],
+  "charger_brands": [
+    "Tesla-compatible wiring",
+    "ChargePoint/Wallbox via partners"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select crews)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in served states",
+    "Homebuilder relationships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "lease"
+    ],
+    "notes": "Performance guarantee tied to production contracts."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900 (where offered)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.40-3.20",
+    "battery_adder_per_kwh_usd": "850-1150",
+    "site_survey": "Onsite after virtual design"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Production guarantee on many contracts",
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State rebates",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-800-685-1850 (placeholder)",
+    "email": "support@freedomforever.com (placeholder)",
+    "website": "https://freedomforever.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.4,
+    "review_count": 2500,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Fast-track solar install",
+      "location": "Las Vegas, NV",
+      "scope_kw": 7.2,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ7"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Optimized warehouse kitting",
+    "Remote monitoring via customer app"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "Performance Guarantee"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Freedom",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify financing options by state and production guarantee terms."
+}

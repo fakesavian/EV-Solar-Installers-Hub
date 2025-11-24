@@ -1,0 +1,125 @@
+{
+  "id": "trinity-solar",
+  "company_name": "Trinity Solar",
+  "category": "Solar",
+  "description": "Family-owned installer serving Northeast and Mid-Atlantic with in-house crews and PPAs where allowed.",
+  "hq": {
+    "city": "Wall Township",
+    "state": "NJ",
+    "country": "USA"
+  },
+  "founded_year": 1994,
+  "employees_estimate": "2000+",
+  "service_area": [
+    "CT",
+    "DE",
+    "FL",
+    "MA",
+    "MD",
+    "NH",
+    "NJ",
+    "NY",
+    "PA",
+    "RI",
+    "SC"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Monitoring",
+    "Roofing coordination"
+  ],
+  "charger_brands": [
+    "EV-ready conduit (by request)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "SolarEdge",
+      "Enphase"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in Northeast/Mid-Atlantic markets"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "PPA"
+    ],
+    "notes": "PPAs available in several states."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.50-3.30",
+    "battery_adder_per_kwh_usd": "900-1150",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Production guarantees on PPAs",
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Northeast net metering/billing",
+    "State SRECs/ADCs (legacy)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-888-567-1550 (placeholder)",
+    "email": "info@trinity-solar.com (placeholder)",
+    "website": "https://www.trinity-solar.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm ET",
+  "ratings": {
+    "average": 4.5,
+    "review_count": 3000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Northeast residential solar",
+      "location": "Newark, NJ",
+      "scope_kw": 7.5,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "SolarEdge HD-Wave"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "In-house crews for quality control",
+    "Recycling of packaging where supported"
+  ],
+  "tags": [
+    "Solar",
+    "Northeast",
+    "PPA"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Trinity",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm active states and incentive programs per utility."
+}

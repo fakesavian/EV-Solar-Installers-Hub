@@ -1,0 +1,140 @@
+{
+  "id": "sunrun",
+  "company_name": "Sunrun",
+  "category": "Hybrid",
+  "description": "National solar provider with rooftop solar, batteries, and optional EV charger add-ons in select markets.",
+  "hq": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2007,
+  "employees_estimate": "5000+",
+  "service_area": [
+    "AZ",
+    "CA",
+    "CO",
+    "CT",
+    "FL",
+    "IL",
+    "MA",
+    "MD",
+    "NJ",
+    "NV",
+    "NY",
+    "PA",
+    "SC",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WI"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Grid-tied solar",
+    "Battery storage",
+    "EV charger add-ons (select)",
+    "Roofing coordination",
+    "Monitoring"
+  ],
+  "charger_brands": [
+    "Level 2 home charger (varies by market)",
+    "Tesla-compatible wiring"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase IQ"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Sunrun Brightbox"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals",
+    "Tesla Powerwall Certified Installer"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection across active states",
+    "Retail/homebuilder partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan",
+      "lease",
+      "PPA"
+    ],
+    "notes": "Leases/PPAs available in most active states."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-2000 (where offered)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.50-3.60",
+    "battery_adder_per_kwh_usd": "900-1300",
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 10,
+    "performance_guarantee": "Production guarantees on PPA/lease",
+    "notes": "Roof penetration warranty provided."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing support",
+    "State solar rebates",
+    "SGIP/Powerwall incentives (CA)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "contacts": {
+    "phone": "+1-855-478-6786 (placeholder)",
+    "email": "support@sunrun.com (placeholder)",
+    "website": "https://sunrun.com"
+  },
+  "support_hours": "Mon-Fri 7am-5pm PT",
+  "ratings": {
+    "average": 4.3,
+    "review_count": 7000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + storage + EV circuit",
+      "location": "Phoenix, AZ",
+      "scope_kw": 8.5,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Remote design to reduce truck rolls",
+    "Roofing reuse where feasible"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "Lease/PPA",
+    "EV-ready"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Sunrun",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm EV charger availability per state; pricing varies by utility zone."
+}

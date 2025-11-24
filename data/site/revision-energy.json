@@ -1,0 +1,129 @@
+{
+  "id": "revision-energy",
+  "company_name": "ReVision Energy",
+  "category": "Hybrid",
+  "description": "Employee-owned solar, battery, and EV charger installer serving Northern New England with in-house crews.",
+  "hq": {
+    "city": "South Portland",
+    "state": "ME",
+    "country": "USA"
+  },
+  "founded_year": 2003,
+  "employees_estimate": "1000+",
+  "service_area": [
+    "ME",
+    "NH",
+    "MA"
+  ],
+  "service_models": [
+    "residential",
+    "commercial"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Level 2 EV charger installation",
+    "Heat pump water heaters (select)",
+    "Monitoring and O&M"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Q CELLS",
+      "REC"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals",
+    "Tesla Powerwall Certified Installer",
+    "Licensed electricians"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in ME/NH/MA",
+    "Community solar/OEM partnerships (select)"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Local credit union partnerships common."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.60-3.50",
+    "battery_adder_per_kwh_usd": "900-1250",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included; production monitoring provided."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing in ME/NH/MA",
+    "State battery rebates where available",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-207-000-0000 (placeholder)",
+    "email": "hello@revisionenergy.com (placeholder)",
+    "website": "https://www.revisionenergy.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm ET",
+  "ratings": {
+    "average": 4.8,
+    "review_count": 2200,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "School solar + EV chargers",
+      "location": "Portland, ME",
+      "scope_kw": 200,
+      "chargers_installed": 8,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "Powerwall 2",
+        "ChargePoint CT"
+      ],
+      "segment": "commercial"
+    }
+  ],
+  "sustainability_practices": [
+    "Employee-owned B Corp practices",
+    "Recycling packaging when available"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV",
+    "New England",
+    "In-house Crews"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=ReVision",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm current rebate availability per utility."
+}

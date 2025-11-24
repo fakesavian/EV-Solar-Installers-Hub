@@ -1,0 +1,120 @@
+{
+  "id": "solgen-power",
+  "company_name": "Solgen Power",
+  "category": "Solar",
+  "description": "Residential solar EPC with regional crews across the Pacific Northwest and Southwest.",
+  "hq": {
+    "city": "Pasco",
+    "state": "WA",
+    "country": "USA"
+  },
+  "founded_year": 2017,
+  "employees_estimate": "2000+",
+  "service_area": [
+    "WA",
+    "OR",
+    "ID",
+    "TX",
+    "AZ",
+    "NM"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage (select)",
+    "Monitoring",
+    "EV-ready conduit (select)"
+  ],
+  "charger_brands": [
+    "EV conduit prep (installer dependent)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Tesla Powerwall (select)",
+      "Enphase IQ Battery (select)"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select teams)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection across served states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Promotional loan products offered frequently."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.40-3.20",
+    "battery_adder_per_kwh_usd": "900-1150",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State rebates (where available)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-855-000-0000 (placeholder)",
+    "email": "support@solgenpower.com (placeholder)",
+    "website": "https://solgenpower.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.4,
+    "review_count": 2800,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Northwest residential solar",
+      "location": "Spokane, WA",
+      "scope_kw": 8,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "In-house crews for consistency",
+    "Digital proposals to reduce travel"
+  ],
+  "tags": [
+    "Solar",
+    "Pacific Northwest",
+    "Battery"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Solgen",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify current state coverage and battery availability."
+}

@@ -1,0 +1,134 @@
+{
+  "id": "blue-raven-solar",
+  "company_name": "Blue Raven Solar",
+  "category": "Solar",
+  "description": "Residential solar installer emphasizing quick installs and ownership-focused financing.",
+  "hq": {
+    "city": "Orem",
+    "state": "UT",
+    "country": "USA"
+  },
+  "founded_year": 2014,
+  "employees_estimate": "2000+",
+  "service_area": [
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KY",
+    "MI",
+    "MN",
+    "MO",
+    "NC",
+    "NE",
+    "NV",
+    "OH",
+    "OR",
+    "SC",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WI"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Monitoring",
+    "EV-ready conduit (select markets)"
+  ],
+  "charger_brands": [
+    "EV wiring support (installer dependent)"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase microinverters"
+    ],
+    "storage": [
+      "Battery offerings select markets"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select markets)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in active states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Ownership-first approach; promotions vary by market."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.40-3.10",
+    "battery_adder_per_kwh_usd": "950-1200",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State rebates",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-800-377-4480 (placeholder)",
+    "email": "contact@blueravensolar.com (placeholder)",
+    "website": "https://blueravensolar.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm MT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 6000,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Fast-track solar install",
+      "location": "Boise, ID",
+      "scope_kw": 6.8,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Digital sales to reduce travel",
+    "Roof-friendly mounting practices"
+  ],
+  "tags": [
+    "Solar",
+    "Fast Install",
+    "Ownership"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=BlueRaven",
+    "gallery": []
+  },
+  "data_quality_notes": "Battery and EV wiring availability vary by state; verify current promotions."
+}

@@ -1,0 +1,118 @@
+{
+  "id": "enel-x-way",
+  "company_name": "Enel X Way Services (JuiceBox Installers)",
+  "category": "EV",
+  "description": "OEM-backed installer network for Enel X JuiceBox chargers with permitting and rebate assistance.",
+  "hq": {
+    "city": "San Carlos",
+    "state": "CA",
+    "country": "USA"
+  },
+  "founded_year": 2016,
+  "employees_estimate": "150+ (networked)",
+  "service_area": [
+    "CA",
+    "NY",
+    "MA",
+    "IL",
+    "TX",
+    "FL"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "multifamily"
+  ],
+  "services_offered": [
+    "JuiceBox Level 2 installation",
+    "Panel and circuit upgrades",
+    "Load sharing setup",
+    "Permitting and inspection"
+  ],
+  "charger_brands": [
+    "Enel X JuiceBox",
+    "Tesla",
+    "ChargePoint (select)",
+    "Wallbox (select)"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": [
+      "Enel X Way Battery partners (select markets)"
+    ]
+  },
+  "certifications": [
+    "OEM-trained installers",
+    "Licensed electricians in served states"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility-managed charging program support",
+    "Retail partnerships for bundled installs"
+  ],
+  "financing": {
+    "options": [
+      "cash"
+    ],
+    "notes": "Financing typically via third-party partners where available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "700-1900",
+    "dcfc_range_usd": "Custom",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual pre-quote + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "OEM hardware warranty; labor via installer partner."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility demand response enrollments",
+    "State EVSE rebates"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-888-988-4066 (placeholder)",
+    "email": "support@enelxway.com (placeholder)",
+    "website": "https://enelxway.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm PT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 400,
+    "source": "OEM installer network feedback (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Managed charging rollout",
+      "location": "Boston, MA",
+      "scope_kw": null,
+      "chargers_installed": 60,
+      "year": 2024,
+      "equipment": [
+        "JuiceBox 48"
+      ],
+      "segment": "multifamily"
+    }
+  ],
+  "sustainability_practices": [
+    "Managed-charging to reduce grid impact",
+    "Encourages off-peak scheduling"
+  ],
+  "tags": [
+    "EV",
+    "OEM Network",
+    "Managed Charging"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=EnelX",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify current state coverage and JuiceBox model availability."
+}

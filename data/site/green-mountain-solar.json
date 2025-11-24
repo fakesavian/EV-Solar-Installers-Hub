@@ -1,0 +1,124 @@
+{
+  "id": "green-mountain-solar",
+  "company_name": "Green Mountain Solar",
+  "category": "Hybrid",
+  "description": "Vermont-focused solar installer offering storage and home EV charger wiring with in-house crews.",
+  "hq": {
+    "city": "South Burlington",
+    "state": "VT",
+    "country": "USA"
+  },
+  "founded_year": 2017,
+  "employees_estimate": "150+",
+  "service_area": [
+    "VT",
+    "NH",
+    "NY"
+  ],
+  "service_models": [
+    "residential",
+    "light commercial"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Level 2 EV charger installation",
+    "Monitoring and O&M"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Q CELLS",
+      "REC"
+    ],
+    "inverters": [
+      "Enphase"
+    ],
+    "storage": [
+      "Tesla Powerwall",
+      "Enphase IQ Battery"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals",
+    "Tesla Powerwall Certified Installer"
+  ],
+  "utility_and_partner_affiliations": [
+    "Green Mountain Power programs",
+    "Regional net metering"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Local credit union partners available."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1900",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.70-3.60",
+    "battery_adder_per_kwh_usd": "900-1250",
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "VT/NH net metering",
+    "State/utility battery incentives (e.g., GMP)",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-802-000-0000 (placeholder)",
+    "email": "hello@greenmtnsolar.com (placeholder)",
+    "website": "https://greenmtnsolar.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm ET",
+  "ratings": {
+    "average": 4.9,
+    "review_count": 620,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + Powerwall bundle",
+      "location": "Burlington, VT",
+      "scope_kw": 7.5,
+      "chargers_installed": 1,
+      "year": 2024,
+      "equipment": [
+        "Q CELLS",
+        "Enphase IQ8",
+        "Powerwall 2"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Cold-climate design for snow load",
+    "Remote monitoring to reduce truck rolls"
+  ],
+  "tags": [
+    "Solar",
+    "Battery",
+    "EV-ready",
+    "Vermont"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=GMS",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps."
+}

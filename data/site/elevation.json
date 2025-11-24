@@ -1,0 +1,122 @@
+{
+  "id": "elevation",
+  "company_name": "Elevation",
+  "category": "Hybrid",
+  "description": "Energy efficiency and solar provider combining insulation, HVAC optimization, and rooftop solar with batteries.",
+  "hq": {
+    "city": "Chandler",
+    "state": "AZ",
+    "country": "USA"
+  },
+  "founded_year": 2014,
+  "employees_estimate": "1000+",
+  "service_area": [
+    "AZ",
+    "CA",
+    "NV",
+    "UT",
+    "TX"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Battery storage",
+    "Energy efficiency audits",
+    "Insulation and HVAC optimization",
+    "EV-ready circuits (select)"
+  ],
+  "charger_brands": [
+    "EV wiring support"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase"
+    ],
+    "storage": [
+      "Enphase IQ Battery",
+      "Tesla Powerwall"
+    ]
+  },
+  "certifications": [
+    "NABCEP-certified professionals (select)",
+    "BPI energy efficiency certifications (select)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility efficiency program participation",
+    "Interconnection across served states"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "loan"
+    ],
+    "notes": "Energy efficiency bundles offered."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "900-1800 (where offered)",
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "2.70-3.50",
+    "battery_adder_per_kwh_usd": "950-1250",
+    "site_survey": "Onsite energy audit"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": null,
+    "notes": "Efficiency work carries its own terms."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Utility efficiency rebates",
+    "Net metering/billing",
+    "ITC guidance"
+  ],
+  "languages": [
+    "English"
+  ],
+  "contacts": {
+    "phone": "+1-888-354-0174 (placeholder)",
+    "email": "hello@poweredbyelevation.com (placeholder)",
+    "website": "https://poweredbyelevation.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm MT",
+  "ratings": {
+    "average": 4.6,
+    "review_count": 1200,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Solar + efficiency bundle",
+      "location": "Phoenix, AZ",
+      "scope_kw": 8.2,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "Enphase IQ8",
+        "IQ Battery"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Focus on reducing load before adding solar",
+    "Comprehensive energy audits"
+  ],
+  "tags": [
+    "Solar",
+    "Efficiency",
+    "Battery",
+    "EV-ready"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=Elevation",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm EV circuit availability; efficiency rebates vary by utility."
+}

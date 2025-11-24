@@ -1,0 +1,134 @@
+{
+  "id": "smart-charge-america",
+  "company_name": "Smart Charge America",
+  "category": "EV",
+  "description": "EV-focused installer handling home and commercial charging with rebate support.",
+  "hq": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA"
+  },
+  "founded_year": 2007,
+  "employees_estimate": "150+",
+  "service_area": [
+    "TX",
+    "CA",
+    "CO",
+    "FL",
+    "NY",
+    "GA"
+  ],
+  "service_models": [
+    "residential",
+    "commercial",
+    "multifamily",
+    "fleet"
+  ],
+  "services_offered": [
+    "Level 2 EV charger installation",
+    "Site survey and load calc",
+    "Panel upgrade",
+    "Commercial pedestals",
+    "O&M"
+  ],
+  "charger_brands": [
+    "Tesla Wall Connector",
+    "ChargePoint",
+    "Wallbox",
+    "Blink",
+    "JuiceBox"
+  ],
+  "solar_equipment": {
+    "modules": [],
+    "inverters": [],
+    "storage": []
+  },
+  "certifications": [
+    "EVITP-trained technicians (market dependent)",
+    "Licensed electricians in served states"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility rebate processing support",
+    "Property manager partnerships"
+  ],
+  "financing": {
+    "options": [
+      "cash",
+      "commercial terms"
+    ],
+    "notes": "Project-based terms for commercial sites."
+  },
+  "pricing": {
+    "ev_level2_range_usd": "750-2000",
+    "dcfc_range_usd": "15000-60000",
+    "solar_ppw_usd": null,
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Virtual + onsite"
+  },
+  "warranty": {
+    "labor_years": 1,
+    "equipment_years": 1,
+    "performance_guarantee": null,
+    "notes": "Commercial SLAs available by project."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Austin Energy rebate support",
+    "TX utility EVSE incentives",
+    "CA utility EV programs"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select markets)"
+  ],
+  "contacts": {
+    "phone": "+1-844-909-4922 (placeholder)",
+    "email": "sales@smartchargeamerica.com (placeholder)",
+    "website": "https://smartchargeamerica.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm CT",
+  "ratings": {
+    "average": 4.7,
+    "review_count": 650,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Multifamily retrofit",
+      "location": "Austin, TX",
+      "scope_kw": null,
+      "chargers_installed": 40,
+      "year": 2023,
+      "equipment": [
+        "ChargePoint CT4000"
+      ],
+      "segment": "multifamily"
+    },
+    {
+      "name": "Fleet pilot",
+      "location": "Denver, CO",
+      "scope_kw": null,
+      "chargers_installed": 25,
+      "year": 2024,
+      "equipment": [
+        "Wallbox Pulsar Plus"
+      ],
+      "segment": "fleet"
+    }
+  ],
+  "sustainability_practices": [
+    "Load-sharing to avoid panel upsizing",
+    "Coordinated trenching to reduce disturbance"
+  ],
+  "tags": [
+    "EV",
+    "Multifamily",
+    "Commercial",
+    "Rebates"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=SCA",
+    "gallery": []
+  },
+  "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "posigen",
+  "company_name": "PosiGen",
+  "category": "Solar",
+  "description": "Solar installer focusing on lease products for LMI households with optional efficiency upgrades.",
+  "hq": {
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA"
+  },
+  "founded_year": 2011,
+  "employees_estimate": "900+",
+  "service_area": [
+    "LA",
+    "CT",
+    "NJ",
+    "MA",
+    "PA"
+  ],
+  "service_models": [
+    "residential"
+  ],
+  "services_offered": [
+    "Rooftop solar",
+    "Energy efficiency upgrades",
+    "Monitoring",
+    "EV-ready conduit (select)"
+  ],
+  "charger_brands": [
+    "EV-ready conduit; chargers via partners"
+  ],
+  "solar_equipment": {
+    "modules": [
+      "Tier-1 mono PERC modules"
+    ],
+    "inverters": [
+      "Enphase",
+      "SolarEdge"
+    ],
+    "storage": [
+      "Battery offerings pilot (select markets)"
+    ]
+  },
+  "certifications": [
+    "Licensed electricians",
+    "NABCEP-certified professionals (select teams)"
+  ],
+  "utility_and_partner_affiliations": [
+    "Utility interconnection in served states",
+    "Community solar/lease partners"
+  ],
+  "financing": {
+    "options": [
+      "lease"
+    ],
+    "notes": "Lease-focused; loan/cash limited by market."
+  },
+  "pricing": {
+    "ev_level2_range_usd": null,
+    "dcfc_range_usd": null,
+    "solar_ppw_usd": "Lease pricing (varies)",
+    "battery_adder_per_kwh_usd": null,
+    "site_survey": "Onsite"
+  },
+  "warranty": {
+    "labor_years": 10,
+    "equipment_years": 25,
+    "performance_guarantee": "Production guarantee on lease",
+    "notes": "Roof penetration warranty included."
+  },
+  "permit_handling": true,
+  "rebates_and_programs": [
+    "Net metering/billing",
+    "State incentives",
+    "ITC lease structuring guidance"
+  ],
+  "languages": [
+    "English",
+    "Spanish (select crews)"
+  ],
+  "contacts": {
+    "phone": "+1-888-000-0001 (placeholder)",
+    "email": "support@posigen.com (placeholder)",
+    "website": "https://www.posigen.com"
+  },
+  "support_hours": "Mon-Fri 8am-6pm CT",
+  "ratings": {
+    "average": 4.4,
+    "review_count": 1600,
+    "source": "public reviews (example)"
+  },
+  "featured_projects": [
+    {
+      "name": "Lease-based rooftop solar",
+      "location": "Baton Rouge, LA",
+      "scope_kw": 7,
+      "chargers_installed": 0,
+      "year": 2024,
+      "equipment": [
+        "SolarEdge HD-Wave"
+      ],
+      "segment": "residential"
+    }
+  ],
+  "sustainability_practices": [
+    "Efficiency measures paired with solar",
+    "Remote monitoring to reduce truck rolls"
+  ],
+  "tags": [
+    "Solar",
+    "Lease",
+    "LMI",
+    "Efficiency"
+  ],
+  "photos": {
+    "logo": "https://placehold.co/160x160?text=PosiGen",
+    "gallery": []
+  },
+  "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary."
+}
