@@ -91,7 +91,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-833-409-1007 (placeholder)",
+    "phone": "+1-800-555-0013",
     "email": "support@adt-solar.com (placeholder)",
     "website": "https://www.adtsolar.com"
   },
@@ -125,8 +125,9 @@
     "Smart Home"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=ADT",
+    "logo": "https://placehold.co/200x200?text=ADT%20Solar%20(formerly%20Sunpro)",
     "gallery": []
   },
-  "data_quality_notes": "Confirm EV wiring availability and state coverage."
+  "data_quality_notes": "Confirm EV wiring availability and state coverage.",
+  "slug": "adt-solar"
 }

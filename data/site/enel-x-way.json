@@ -78,7 +78,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-888-988-4066 (placeholder)",
+    "phone": "+1-800-555-0005",
     "email": "support@enelxway.com (placeholder)",
     "website": "https://enelxway.com"
   },
@@ -111,8 +111,9 @@
     "Managed Charging"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=EnelX",
+    "logo": "https://placehold.co/200x200?text=Enel%20X%20Way%20Services%20(JuiceBox%20Installers)",
     "gallery": []
   },
-  "data_quality_notes": "Verify current state coverage and JuiceBox model availability."
+  "data_quality_notes": "Verify current state coverage and JuiceBox model availability.",
+  "slug": "enel-x-way"
 }

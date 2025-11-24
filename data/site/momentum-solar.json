@@ -85,7 +85,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-888-338-7786 (placeholder)",
+    "phone": "+1-800-555-0017",
     "email": "care@momentumsolar.com (placeholder)",
     "website": "https://momentumsolar.com"
   },
@@ -118,8 +118,9 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Momentum",
+    "logo": "https://placehold.co/200x200?text=Momentum%20Solar",
     "gallery": []
   },
-  "data_quality_notes": "Confirm availability of PPAs and batteries per state."
+  "data_quality_notes": "Confirm availability of PPAs and batteries per state.",
+  "slug": "momentum-solar"
 }

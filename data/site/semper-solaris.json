@@ -78,7 +78,7 @@
     "Spanish (CA crews)"
   ],
   "contacts": {
-    "phone": "+1-888-210-3366 (placeholder)",
+    "phone": "+1-800-555-0016",
     "email": "info@sempersolaris.com (placeholder)",
     "website": "https://www.sempersolaris.com"
   },
@@ -113,8 +113,9 @@
     "Veteran-owned"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Semper",
+    "logo": "https://placehold.co/200x200?text=Semper%20Solaris",
     "gallery": []
   },
-  "data_quality_notes": "Confirm EV wiring availability and SGIP funding status."
+  "data_quality_notes": "Confirm EV wiring availability and SGIP funding status.",
+  "slug": "semper-solaris"
 }

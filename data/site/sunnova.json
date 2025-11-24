@@ -80,7 +80,7 @@
     "Spanish (many dealers)"
   ],
   "contacts": {
-    "phone": "+1-866-786-6682 (placeholder)",
+    "phone": "+1-800-555-0010",
     "email": "support@sunnova.com (placeholder)",
     "website": "https://sunnova.com"
   },
@@ -114,8 +114,9 @@
     "PPA/Lease"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Sunnova",
+    "logo": "https://placehold.co/200x200?text=Sunnova",
     "gallery": []
   },
-  "data_quality_notes": "Confirm dealer availability and financing offers by ZIP."
+  "data_quality_notes": "Confirm dealer availability and financing offers by ZIP.",
+  "slug": "sunnova"
 }

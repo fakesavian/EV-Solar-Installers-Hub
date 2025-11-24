@@ -80,7 +80,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-855-000-0000 (placeholder)",
+    "phone": "+1-800-555-0027",
     "email": "support@solgenpower.com (placeholder)",
     "website": "https://solgenpower.com"
   },
@@ -113,8 +113,9 @@
     "Battery"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Solgen",
+    "logo": "https://placehold.co/200x200?text=Solgen%20Power",
     "gallery": []
   },
-  "data_quality_notes": "Verify current state coverage and battery availability."
+  "data_quality_notes": "Verify current state coverage and battery availability.",
+  "slug": "solgen-power"
 }

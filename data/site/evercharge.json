@@ -74,7 +74,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-888-387-1326 (placeholder)",
+    "phone": "+1-800-555-0006",
     "email": "sales@evercharge.com (placeholder)",
     "website": "https://evercharge.com"
   },
@@ -108,8 +108,9 @@
     "Commercial"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=EverCharge",
+    "logo": "https://placehold.co/200x200?text=EverCharge",
     "gallery": []
   },
-  "data_quality_notes": "Confirm service contract terms and rebate programs per state."
+  "data_quality_notes": "Confirm service contract terms and rebate programs per state.",
+  "slug": "evercharge"
 }

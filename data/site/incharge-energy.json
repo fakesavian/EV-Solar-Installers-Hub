@@ -78,7 +78,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-424-000-0000 (placeholder)",
+    "phone": "+1-800-555-0022",
     "email": "sales@inchargeus.com (placeholder)",
     "website": "https://inchargeus.com"
   },
@@ -114,8 +114,9 @@
     "Commercial"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=InCharge",
+    "logo": "https://placehold.co/200x200?text=InCharge%20Energy",
     "gallery": []
   },
-  "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project."
+  "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project.",
+  "slug": "incharge-energy"
 }

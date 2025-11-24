@@ -82,7 +82,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-888-781-7074 (placeholder)",
+    "phone": "+1-800-555-0020",
     "email": "care@ionsolar.com (placeholder)",
     "website": "https://ionsolar.com"
   },
@@ -115,8 +115,9 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=ION",
+    "logo": "https://placehold.co/200x200?text=ION%20Solar",
     "gallery": []
   },
-  "data_quality_notes": "Battery availability varies by market; verify loan promotions."
+  "data_quality_notes": "Battery availability varies by market; verify loan promotions.",
+  "slug": "ion-solar"
 }

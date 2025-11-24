@@ -85,7 +85,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-888-567-1550 (placeholder)",
+    "phone": "+1-800-555-0018",
     "email": "info@trinity-solar.com (placeholder)",
     "website": "https://www.trinity-solar.com"
   },
@@ -118,8 +118,9 @@
     "PPA"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Trinity",
+    "logo": "https://placehold.co/200x200?text=Trinity%20Solar",
     "gallery": []
   },
-  "data_quality_notes": "Confirm active states and incentive programs per utility."
+  "data_quality_notes": "Confirm active states and incentive programs per utility.",
+  "slug": "trinity-solar"
 }

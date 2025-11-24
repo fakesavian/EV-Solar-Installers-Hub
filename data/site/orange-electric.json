@@ -87,7 +87,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-801-000-0000 (placeholder)",
+    "phone": "+1-800-555-0030",
     "email": "info@orangeelectric.com (placeholder)",
     "website": "https://www.orangeelectric.com"
   },
@@ -123,8 +123,9 @@
     "Utah"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Orange",
+    "logo": "https://placehold.co/200x200?text=Orange%20Electric",
     "gallery": []
   },
-  "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power."
+  "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power.",
+  "slug": "orange-electric"
 }

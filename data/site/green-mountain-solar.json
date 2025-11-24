@@ -81,7 +81,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-802-000-0000 (placeholder)",
+    "phone": "+1-800-555-0025",
     "email": "hello@greenmtnsolar.com (placeholder)",
     "website": "https://greenmtnsolar.com"
   },
@@ -117,8 +117,9 @@
     "Vermont"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=GMS",
+    "logo": "https://placehold.co/200x200?text=Green%20Mountain%20Solar",
     "gallery": []
   },
-  "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps."
+  "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps.",
+  "slug": "green-mountain-solar"
 }

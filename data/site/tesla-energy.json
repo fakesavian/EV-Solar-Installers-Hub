@@ -90,7 +90,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-888-765-2489 (placeholder)",
+    "phone": "+1-800-555-0009",
     "email": "energy@tesla.com (placeholder)",
     "website": "https://www.tesla.com/energy"
   },
@@ -125,8 +125,9 @@
     "VPP"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=Tesla",
+    "logo": "https://placehold.co/200x200?text=Tesla%20Energy",
     "gallery": []
   },
-  "data_quality_notes": "EV circuit availability varies by market; confirm local queue times."
+  "data_quality_notes": "EV circuit availability varies by market; confirm local queue times.",
+  "slug": "tesla-energy"
 }

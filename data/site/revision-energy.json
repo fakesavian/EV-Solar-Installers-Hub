@@ -85,7 +85,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-207-000-0000 (placeholder)",
+    "phone": "+1-800-555-0021",
     "email": "hello@revisionenergy.com (placeholder)",
     "website": "https://www.revisionenergy.com"
   },
@@ -122,8 +122,9 @@
     "In-house Crews"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=ReVision",
+    "logo": "https://placehold.co/200x200?text=ReVision%20Energy",
     "gallery": []
   },
-  "data_quality_notes": "Confirm current rebate availability per utility."
+  "data_quality_notes": "Confirm current rebate availability per utility.",
+  "slug": "revision-energy"
 }

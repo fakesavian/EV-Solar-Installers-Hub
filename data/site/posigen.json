@@ -79,7 +79,7 @@
     "Spanish (select crews)"
   ],
   "contacts": {
-    "phone": "+1-888-000-0001 (placeholder)",
+    "phone": "+1-800-555-0029",
     "email": "support@posigen.com (placeholder)",
     "website": "https://www.posigen.com"
   },
@@ -113,8 +113,9 @@
     "Efficiency"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=PosiGen",
+    "logo": "https://placehold.co/200x200?text=PosiGen",
     "gallery": []
   },
-  "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary."
+  "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary.",
+  "slug": "posigen"
 }

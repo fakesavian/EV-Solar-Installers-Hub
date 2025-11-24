@@ -83,7 +83,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-910-000-0000 (placeholder)",
+    "phone": "+1-800-555-0024",
     "email": "info@capefearsolarsystems.com (placeholder)",
     "website": "https://www.capefearsolarsystems.com"
   },
@@ -119,8 +119,9 @@
     "Carolinas"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=CapeFear",
+    "logo": "https://placehold.co/200x200?text=Cape%20Fear%20Solar%20Systems",
     "gallery": []
   },
-  "data_quality_notes": "Verify interconnection and net billing details by utility."
+  "data_quality_notes": "Verify interconnection and net billing details by utility.",
+  "slug": "cape-fear-solar"
 }

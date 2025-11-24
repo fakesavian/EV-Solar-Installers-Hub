@@ -82,7 +82,7 @@
     "Spanish (select markets)"
   ],
   "contacts": {
-    "phone": "+1-844-909-4922 (placeholder)",
+    "phone": "+1-800-555-0002",
     "email": "sales@smartchargeamerica.com (placeholder)",
     "website": "https://smartchargeamerica.com"
   },
@@ -127,8 +127,9 @@
     "Rebates"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=SCA",
+    "logo": "https://placehold.co/200x200?text=Smart%20Charge%20America",
     "gallery": []
   },
-  "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts."
+  "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts.",
+  "slug": "smart-charge-america"
 }

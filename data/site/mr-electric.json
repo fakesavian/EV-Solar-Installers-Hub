@@ -69,7 +69,7 @@
     "English"
   ],
   "contacts": {
-    "phone": "+1-844-866-1367 (placeholder)",
+    "phone": "+1-800-555-0003",
     "email": "contact@mrelectric.com (placeholder)",
     "website": "https://mrelectric.com"
   },
@@ -102,8 +102,9 @@
     "Franchise"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=MrElectric",
+    "logo": "https://placehold.co/200x200?text=Mr.%20Electric%20(Neighborly)",
     "gallery": []
   },
-  "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level."
+  "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level.",
+  "slug": "mr-electric"
 }

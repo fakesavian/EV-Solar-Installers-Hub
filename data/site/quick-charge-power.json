@@ -75,7 +75,7 @@
     "Spanish (CA crews)"
   ],
   "contacts": {
-    "phone": "+1-844-000-0000 (placeholder)",
+    "phone": "+1-800-555-0023",
     "email": "info@quickchargepower.com (placeholder)",
     "website": "https://www.quickchargepower.com"
   },
@@ -109,8 +109,9 @@
     "California"
   ],
   "photos": {
-    "logo": "https://placehold.co/160x160?text=QCP",
+    "logo": "https://placehold.co/200x200?text=Quick%20Charge%20Power",
     "gallery": []
   },
-  "data_quality_notes": "Verify rebate eligibility per utility territory."
+  "data_quality_notes": "Verify rebate eligibility per utility territory.",
+  "slug": "quick-charge-power"
 }

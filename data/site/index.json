@@ -79,7 +79,7 @@
       "Spanish (varies by market)"
     ],
     "contacts": {
-      "phone": "+1-888-000-0000 (placeholder)",
+      "phone": "+1-800-555-0001",
       "email": "hello@qmerit.com (placeholder)",
       "website": "https://qmerit.com"
     },
@@ -114,10 +114,11 @@
       "Fleet"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Qmerit",
+      "logo": "https://placehold.co/200x200?text=Qmerit%20Certified%20Solutions",
       "gallery": []
     },
-    "data_quality_notes": "Replace placeholders and contractor-specific terms with verified local data."
+    "data_quality_notes": "Replace placeholders and contractor-specific terms with verified local data.",
+    "slug": "qmerit-certified"
   },
   {
     "id": "smart-charge-america",
@@ -203,7 +204,7 @@
       "Spanish (select markets)"
     ],
     "contacts": {
-      "phone": "+1-844-909-4922 (placeholder)",
+      "phone": "+1-800-555-0002",
       "email": "sales@smartchargeamerica.com (placeholder)",
       "website": "https://smartchargeamerica.com"
     },
@@ -248,10 +249,11 @@
       "Rebates"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=SCA",
+      "logo": "https://placehold.co/200x200?text=Smart%20Charge%20America",
       "gallery": []
     },
-    "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts."
+    "data_quality_notes": "Verify utility coverage by ZIP; update phone/email with confirmed contacts.",
+    "slug": "smart-charge-america"
   },
   {
     "id": "mr-electric",
@@ -324,7 +326,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-844-866-1367 (placeholder)",
+      "phone": "+1-800-555-0003",
       "email": "contact@mrelectric.com (placeholder)",
       "website": "https://mrelectric.com"
     },
@@ -357,10 +359,11 @@
       "Franchise"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=MrElectric",
+      "logo": "https://placehold.co/200x200?text=Mr.%20Electric%20(Neighborly)",
       "gallery": []
     },
-    "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level."
+    "data_quality_notes": "Confirm franchise coverage, licensing, and financing at the ZIP-code level.",
+    "slug": "mr-electric"
   },
   {
     "id": "ev-safe-charge",
@@ -446,7 +449,7 @@
       "Spanish (Los Angeles crews)"
     ],
     "contacts": {
-      "phone": "+1-844-386-3834 (placeholder)",
+      "phone": "+1-800-555-0004",
       "email": "info@evsafecharge.com (placeholder)",
       "website": "https://evsafecharge.com"
     },
@@ -480,10 +483,11 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=EVSafe",
+      "logo": "https://placehold.co/200x200?text=EV%20Safe%20Charge",
       "gallery": []
     },
-    "data_quality_notes": "Confirm current state coverage and event availability before publishing."
+    "data_quality_notes": "Confirm current state coverage and event availability before publishing.",
+    "slug": "ev-safe-charge"
   },
   {
     "id": "enel-x-way",
@@ -565,7 +569,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-888-988-4066 (placeholder)",
+      "phone": "+1-800-555-0005",
       "email": "support@enelxway.com (placeholder)",
       "website": "https://enelxway.com"
     },
@@ -598,10 +602,11 @@
       "Managed Charging"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=EnelX",
+      "logo": "https://placehold.co/200x200?text=Enel%20X%20Way%20Services%20(JuiceBox%20Installers)",
       "gallery": []
     },
-    "data_quality_notes": "Verify current state coverage and JuiceBox model availability."
+    "data_quality_notes": "Verify current state coverage and JuiceBox model availability.",
+    "slug": "enel-x-way"
   },
   {
     "id": "evercharge",
@@ -679,7 +684,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-888-387-1326 (placeholder)",
+      "phone": "+1-800-555-0006",
       "email": "sales@evercharge.com (placeholder)",
       "website": "https://evercharge.com"
     },
@@ -713,10 +718,11 @@
       "Commercial"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=EverCharge",
+      "logo": "https://placehold.co/200x200?text=EverCharge",
       "gallery": []
     },
-    "data_quality_notes": "Confirm service contract terms and rebate programs per state."
+    "data_quality_notes": "Confirm service contract terms and rebate programs per state.",
+    "slug": "evercharge"
   },
   {
     "id": "sunrun",
@@ -818,7 +824,7 @@
       "Spanish"
     ],
     "contacts": {
-      "phone": "+1-855-478-6786 (placeholder)",
+      "phone": "+1-800-555-0007",
       "email": "support@sunrun.com (placeholder)",
       "website": "https://sunrun.com"
     },
@@ -853,10 +859,11 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Sunrun",
+      "logo": "https://placehold.co/200x200?text=Sunrun",
       "gallery": []
     },
-    "data_quality_notes": "Confirm EV charger availability per state; pricing varies by utility zone."
+    "data_quality_notes": "Confirm EV charger availability per state; pricing varies by utility zone.",
+    "slug": "sunrun"
   },
   {
     "id": "sunpower",
@@ -938,7 +945,7 @@
       "Spanish (dealer dependent)"
     ],
     "contacts": {
-      "phone": "+1-800-786-7693 (placeholder)",
+      "phone": "+1-800-555-0008",
       "email": "info@sunpower.com (placeholder)",
       "website": "https://us.sunpower.com"
     },
@@ -972,10 +979,11 @@
       "Long Warranty"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=SunPower",
+      "logo": "https://placehold.co/200x200?text=SunPower",
       "gallery": []
     },
-    "data_quality_notes": "Confirm dealer coverage and warranty details per region."
+    "data_quality_notes": "Confirm dealer coverage and warranty details per region.",
+    "slug": "sunpower"
   },
   {
     "id": "tesla-energy",
@@ -1069,7 +1077,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-888-765-2489 (placeholder)",
+      "phone": "+1-800-555-0009",
       "email": "energy@tesla.com (placeholder)",
       "website": "https://www.tesla.com/energy"
     },
@@ -1104,10 +1112,11 @@
       "VPP"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Tesla",
+      "logo": "https://placehold.co/200x200?text=Tesla%20Energy",
       "gallery": []
     },
-    "data_quality_notes": "EV circuit availability varies by market; confirm local queue times."
+    "data_quality_notes": "EV circuit availability varies by market; confirm local queue times.",
+    "slug": "tesla-energy"
   },
   {
     "id": "sunnova",
@@ -1191,7 +1200,7 @@
       "Spanish (many dealers)"
     ],
     "contacts": {
-      "phone": "+1-866-786-6682 (placeholder)",
+      "phone": "+1-800-555-0010",
       "email": "support@sunnova.com (placeholder)",
       "website": "https://sunnova.com"
     },
@@ -1225,10 +1234,11 @@
       "PPA/Lease"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Sunnova",
+      "logo": "https://placehold.co/200x200?text=Sunnova",
       "gallery": []
     },
-    "data_quality_notes": "Confirm dealer availability and financing offers by ZIP."
+    "data_quality_notes": "Confirm dealer availability and financing offers by ZIP.",
+    "slug": "sunnova"
   },
   {
     "id": "palmetto",
@@ -1326,7 +1336,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-855-339-1831 (placeholder)",
+      "phone": "+1-800-555-0011",
       "email": "hello@palmetto.com (placeholder)",
       "website": "https://palmetto.com"
     },
@@ -1361,10 +1371,11 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Palmetto",
+      "logo": "https://placehold.co/200x200?text=Palmetto",
       "gallery": []
     },
-    "data_quality_notes": "Confirm EV circuit availability and financing per state."
+    "data_quality_notes": "Confirm EV circuit availability and financing per state.",
+    "slug": "palmetto"
   },
   {
     "id": "freedom-forever",
@@ -1454,7 +1465,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-800-685-1850 (placeholder)",
+      "phone": "+1-800-555-0012",
       "email": "support@freedomforever.com (placeholder)",
       "website": "https://freedomforever.com"
     },
@@ -1487,10 +1498,11 @@
       "Performance Guarantee"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Freedom",
+      "logo": "https://placehold.co/200x200?text=Freedom%20Forever",
       "gallery": []
     },
-    "data_quality_notes": "Verify financing options by state and production guarantee terms."
+    "data_quality_notes": "Verify financing options by state and production guarantee terms.",
+    "slug": "freedom-forever"
   },
   {
     "id": "adt-solar",
@@ -1585,7 +1597,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-833-409-1007 (placeholder)",
+      "phone": "+1-800-555-0013",
       "email": "support@adt-solar.com (placeholder)",
       "website": "https://www.adtsolar.com"
     },
@@ -1619,10 +1631,11 @@
       "Smart Home"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=ADT",
+      "logo": "https://placehold.co/200x200?text=ADT%20Solar%20(formerly%20Sunpro)",
       "gallery": []
     },
-    "data_quality_notes": "Confirm EV wiring availability and state coverage."
+    "data_quality_notes": "Confirm EV wiring availability and state coverage.",
+    "slug": "adt-solar"
   },
   {
     "id": "blue-raven-solar",
@@ -1720,7 +1733,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-800-377-4480 (placeholder)",
+      "phone": "+1-800-555-0014",
       "email": "contact@blueravensolar.com (placeholder)",
       "website": "https://blueravensolar.com"
     },
@@ -1753,10 +1766,11 @@
       "Ownership"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=BlueRaven",
+      "logo": "https://placehold.co/200x200?text=Blue%20Raven%20Solar",
       "gallery": []
     },
-    "data_quality_notes": "Battery and EV wiring availability vary by state; verify current promotions."
+    "data_quality_notes": "Battery and EV wiring availability vary by state; verify current promotions.",
+    "slug": "blue-raven-solar"
   },
   {
     "id": "baker-electric-home-energy",
@@ -1845,7 +1859,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-760-745-2001 (placeholder)",
+      "phone": "+1-800-555-0015",
       "email": "info@bakerhomeenergy.com (placeholder)",
       "website": "https://bakerhomeenergy.com"
     },
@@ -1881,10 +1895,11 @@
       "HVAC"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Baker",
+      "logo": "https://placehold.co/200x200?text=Baker%20Electric%20Home%20Energy",
       "gallery": []
     },
-    "data_quality_notes": "Service area concentrated in Southern CA; confirm rebate availability."
+    "data_quality_notes": "Service area concentrated in Southern CA; confirm rebate availability.",
+    "slug": "baker-electric-home-energy"
   },
   {
     "id": "semper-solaris",
@@ -1966,7 +1981,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-888-210-3366 (placeholder)",
+      "phone": "+1-800-555-0016",
       "email": "info@sempersolaris.com (placeholder)",
       "website": "https://www.sempersolaris.com"
     },
@@ -2001,10 +2016,11 @@
       "Veteran-owned"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Semper",
+      "logo": "https://placehold.co/200x200?text=Semper%20Solaris",
       "gallery": []
     },
-    "data_quality_notes": "Confirm EV wiring availability and SGIP funding status."
+    "data_quality_notes": "Confirm EV wiring availability and SGIP funding status.",
+    "slug": "semper-solaris"
   },
   {
     "id": "momentum-solar",
@@ -2093,7 +2109,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-888-338-7786 (placeholder)",
+      "phone": "+1-800-555-0017",
       "email": "care@momentumsolar.com (placeholder)",
       "website": "https://momentumsolar.com"
     },
@@ -2126,10 +2142,11 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Momentum",
+      "logo": "https://placehold.co/200x200?text=Momentum%20Solar",
       "gallery": []
     },
-    "data_quality_notes": "Confirm availability of PPAs and batteries per state."
+    "data_quality_notes": "Confirm availability of PPAs and batteries per state.",
+    "slug": "momentum-solar"
   },
   {
     "id": "trinity-solar",
@@ -2218,7 +2235,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-888-567-1550 (placeholder)",
+      "phone": "+1-800-555-0018",
       "email": "info@trinity-solar.com (placeholder)",
       "website": "https://www.trinity-solar.com"
     },
@@ -2251,10 +2268,11 @@
       "PPA"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Trinity",
+      "logo": "https://placehold.co/200x200?text=Trinity%20Solar",
       "gallery": []
     },
-    "data_quality_notes": "Confirm active states and incentive programs per utility."
+    "data_quality_notes": "Confirm active states and incentive programs per utility.",
+    "slug": "trinity-solar"
   },
   {
     "id": "elevation",
@@ -2338,7 +2356,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-888-354-0174 (placeholder)",
+      "phone": "+1-800-555-0019",
       "email": "hello@poweredbyelevation.com (placeholder)",
       "website": "https://poweredbyelevation.com"
     },
@@ -2373,10 +2391,11 @@
       "EV-ready"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Elevation",
+      "logo": "https://placehold.co/200x200?text=Elevation",
       "gallery": []
     },
-    "data_quality_notes": "Confirm EV circuit availability; efficiency rebates vary by utility."
+    "data_quality_notes": "Confirm EV circuit availability; efficiency rebates vary by utility.",
+    "slug": "elevation"
   },
   {
     "id": "ion-solar",
@@ -2462,7 +2481,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-888-781-7074 (placeholder)",
+      "phone": "+1-800-555-0020",
       "email": "care@ionsolar.com (placeholder)",
       "website": "https://ionsolar.com"
     },
@@ -2495,10 +2514,11 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=ION",
+      "logo": "https://placehold.co/200x200?text=ION%20Solar",
       "gallery": []
     },
-    "data_quality_notes": "Battery availability varies by market; verify loan promotions."
+    "data_quality_notes": "Battery availability varies by market; verify loan promotions.",
+    "slug": "ion-solar"
   },
   {
     "id": "revision-energy",
@@ -2587,7 +2607,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-207-000-0000 (placeholder)",
+      "phone": "+1-800-555-0021",
       "email": "hello@revisionenergy.com (placeholder)",
       "website": "https://www.revisionenergy.com"
     },
@@ -2624,10 +2644,11 @@
       "In-house Crews"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=ReVision",
+      "logo": "https://placehold.co/200x200?text=ReVision%20Energy",
       "gallery": []
     },
-    "data_quality_notes": "Confirm current rebate availability per utility."
+    "data_quality_notes": "Confirm current rebate availability per utility.",
+    "slug": "revision-energy"
   },
   {
     "id": "incharge-energy",
@@ -2709,7 +2730,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-424-000-0000 (placeholder)",
+      "phone": "+1-800-555-0022",
       "email": "sales@inchargeus.com (placeholder)",
       "website": "https://inchargeus.com"
     },
@@ -2745,10 +2766,11 @@
       "Commercial"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=InCharge",
+      "logo": "https://placehold.co/200x200?text=InCharge%20Energy",
       "gallery": []
     },
-    "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project."
+    "data_quality_notes": "Confirm utility rebate stacks and SLA terms per project.",
+    "slug": "incharge-energy"
   },
   {
     "id": "quick-charge-power",
@@ -2827,7 +2849,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-844-000-0000 (placeholder)",
+      "phone": "+1-800-555-0023",
       "email": "info@quickchargepower.com (placeholder)",
       "website": "https://www.quickchargepower.com"
     },
@@ -2861,10 +2883,11 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=QCP",
+      "logo": "https://placehold.co/200x200?text=Quick%20Charge%20Power",
       "gallery": []
     },
-    "data_quality_notes": "Verify rebate eligibility per utility territory."
+    "data_quality_notes": "Verify rebate eligibility per utility territory.",
+    "slug": "quick-charge-power"
   },
   {
     "id": "cape-fear-solar",
@@ -2951,7 +2974,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-910-000-0000 (placeholder)",
+      "phone": "+1-800-555-0024",
       "email": "info@capefearsolarsystems.com (placeholder)",
       "website": "https://www.capefearsolarsystems.com"
     },
@@ -2987,10 +3010,11 @@
       "Carolinas"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=CapeFear",
+      "logo": "https://placehold.co/200x200?text=Cape%20Fear%20Solar%20Systems",
       "gallery": []
     },
-    "data_quality_notes": "Verify interconnection and net billing details by utility."
+    "data_quality_notes": "Verify interconnection and net billing details by utility.",
+    "slug": "cape-fear-solar"
   },
   {
     "id": "green-mountain-solar",
@@ -3075,7 +3099,7 @@
       "English"
     ],
     "contacts": {
-      "phone": "+1-802-000-0000 (placeholder)",
+      "phone": "+1-800-555-0025",
       "email": "hello@greenmtnsolar.com (placeholder)",
       "website": "https://greenmtnsolar.com"
     },
@@ -3111,10 +3135,11 @@
       "Vermont"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=GMS",
+      "logo": "https://placehold.co/200x200?text=Green%20Mountain%20Solar",
       "gallery": []
     },
-    "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps."
+    "data_quality_notes": "Verify availability of GMP battery incentives and net metering caps.",
+    "slug": "green-mountain-solar"
   },
   {
     "id": "sunlux",
@@ -3202,7 +3227,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-877-000-0000 (placeholder)",
+      "phone": "+1-800-555-0026",
       "email": "support@sunlux.com (placeholder)",
       "website": "https://sunlux.com"
     },
@@ -3238,10 +3263,11 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=SunLux",
+      "logo": "https://placehold.co/200x200?text=SunLux",
       "gallery": []
     },
-    "data_quality_notes": "Confirm financing promos and interconnection timelines per utility."
+    "data_quality_notes": "Confirm financing promos and interconnection timelines per utility.",
+    "slug": "sunlux"
   },
   {
     "id": "solgen-power",
@@ -3325,7 +3351,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-855-000-0000 (placeholder)",
+      "phone": "+1-800-555-0027",
       "email": "support@solgenpower.com (placeholder)",
       "website": "https://solgenpower.com"
     },
@@ -3358,10 +3384,11 @@
       "Battery"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Solgen",
+      "logo": "https://placehold.co/200x200?text=Solgen%20Power",
       "gallery": []
     },
-    "data_quality_notes": "Verify current state coverage and battery availability."
+    "data_quality_notes": "Verify current state coverage and battery availability.",
+    "slug": "solgen-power"
   },
   {
     "id": "infinity-energy",
@@ -3442,7 +3469,7 @@
       "Spanish (CA crews)"
     ],
     "contacts": {
-      "phone": "+1-916-000-0000 (placeholder)",
+      "phone": "+1-800-555-0028",
       "email": "support@infinityenergy.com (placeholder)",
       "website": "https://infinityenergy.com"
     },
@@ -3477,10 +3504,11 @@
       "California"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Infinity",
+      "logo": "https://placehold.co/200x200?text=Infinity%20Energy",
       "gallery": []
     },
-    "data_quality_notes": "Confirm current utility interconnection timelines and financing offers."
+    "data_quality_notes": "Confirm current utility interconnection timelines and financing offers.",
+    "slug": "infinity-energy"
   },
   {
     "id": "posigen",
@@ -3563,7 +3591,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-888-000-0001 (placeholder)",
+      "phone": "+1-800-555-0029",
       "email": "support@posigen.com (placeholder)",
       "website": "https://www.posigen.com"
     },
@@ -3597,10 +3625,11 @@
       "Efficiency"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=PosiGen",
+      "logo": "https://placehold.co/200x200?text=PosiGen",
       "gallery": []
     },
-    "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary."
+    "data_quality_notes": "Confirm active markets and lease terms; battery pilots vary.",
+    "slug": "posigen"
   },
   {
     "id": "orange-electric",
@@ -3691,7 +3720,7 @@
       "Spanish (select crews)"
     ],
     "contacts": {
-      "phone": "+1-801-000-0000 (placeholder)",
+      "phone": "+1-800-555-0030",
       "email": "info@orangeelectric.com (placeholder)",
       "website": "https://www.orangeelectric.com"
     },
@@ -3727,9 +3756,10 @@
       "Utah"
     ],
     "photos": {
-      "logo": "https://placehold.co/160x160?text=Orange",
+      "logo": "https://placehold.co/200x200?text=Orange%20Electric",
       "gallery": []
     },
-    "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power."
+    "data_quality_notes": "Verify rebate levels and interconnection timelines with Rocky Mountain Power.",
+    "slug": "orange-electric"
   }
 ]
